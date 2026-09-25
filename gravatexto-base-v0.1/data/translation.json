@@ -1,0 +1,23 @@
+{
+  "id": "blivre-tr-2018.2.0",
+  "name": "Bíblia Livre",
+  "abbreviation": "BLIVRE",
+  "language": "pt-BR",
+  "edition": "Textus Receptus",
+  "release": "2018.2.0",
+  "release_date": "2018-02-25",
+  "canon": "66-book Protestant canon",
+  "license": "CC-BY-3.0-BR",
+  "license_url": "https://creativecommons.org/licenses/by/3.0/br/",
+  "authors": [
+    "Diego Santos",
+    "Mario Sérgio",
+    "Marco Teles"
+  ],
+  "source_url": "https://github.com/blivre/BibliaLivre/releases/tag/2018.2.0",
+  "download_url": "https://github.com/blivre/BibliaLivre/releases/download/2018.2.0/bliv-tr_vpl.zip",
+  "source_archive_sha256": "af8d9876919c4ca67195b8d8adcb9998a63f25ea4509750574ab6a7eedb9e2f1",
+  "source_vpl_sha256": "43e41dc7a979c2f668fce941d10c2ecd564912a3a02554706f78d66602248d52",
+  "retrieved_on": "2026-09-25",
+  "attribution": "Todas as Escrituras em português citadas são da Bíblia Livre (BLIVRE), Copyright © Diego Santos, Mario Sérgio e Marco Teles, https://sites.google.com/site/biblialivre/ — fevereiro de 2018, edição Textus Receptus, release 2018.2.0. Licença Creative Commons Atribuição 3.0 Brasil: https://creativecommons.org/licenses/by/3.0/br/. Organização em jornadas e exercícios pelo projeto GravaTexto. Texto-fonte preservado; ajustes de apresentação e recortes identificados nos itens de aprendizagem."
+}

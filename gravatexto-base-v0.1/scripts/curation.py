@@ -1,0 +1,17 @@
+JOURNEYS=[
+('first-verses','foundations','Primeiros versículos','Textos curtos para ganhar confiança e aprender referências.',1,True,['1TH 5:16','1TH 5:17','1JO 4:19','PSA 119:105','PHI 4:13','PRO 3:5']),
+('trust-and-care','foundations','Confiança e cuidado','Entregar preocupações a Deus e lembrar de seu cuidado.',1,True,['PSA 56:3','PSA 121:2','1PE 5:7','ROM 12:12','PSA 37:5','MAT 11:28']),
+('essential-faith','foundations','Essenciais da fé','Aprofundar passagens conhecidas sobre amor, fé e graça.',2,False,['JOH 3:16','ROM 3:23','ROM 6:23','EPH 2:8','EPH 2:9','ROM 8:1']),
+('creation-and-covenant','old-testament','Criação e aliança','Da criação ao chamado para amar a Deus.',2,False,['GEN 1:1','GEN 1:27','GEN 12:2','EXO 20:3','DEU 6:4','DEU 6:5']),
+('courage-and-faithfulness','old-testament','Coragem e fidelidade','Lembrar de Deus nas decisões e nos desafios.',2,False,['JOS 1:9','JOS 24:15','RUT 1:16','1SA 16:7','2SA 22:31','NEH 8:10']),
+('psalms-of-trust','old-testament','Salmos de confiança','Memorizar orações e imagens de refúgio.',2,False,['PSA 23:1','PSA 23:2','PSA 23:3','PSA 27:1','PSA 46:1','PSA 91:2']),
+('wisdom-for-life','old-testament','Sabedoria para viver','Palavras, decisões e caminhos na literatura de sabedoria.',2,False,['PRO 1:7','PRO 3:6','PRO 4:23','PRO 15:1','PRO 16:3','ECC 3:1']),
+('hope-in-the-prophets','old-testament','Esperança nos profetas','Justiça, esperança e fidelidade em seus contextos.',3,False,['ISA 40:31','ISA 41:10','JER 17:7','LAM 3:22','LAM 3:23','MIC 6:8']),
+('spirit-and-community','new-testament','Espírito e comunidade','A missão e a comunhão na igreja em Atos.',2,False,['ACT 1:8','ACT 2:42','ACT 2:46','ACT 2:47','ACT 4:12','ACT 20:35']),
+('grace-and-new-life','new-testament','Graça e nova vida','Salvação, transformação e caminhada pela fé.',3,False,['ROM 5:1','ROM 5:8','ROM 8:28','ROM 12:2','2CO 5:17','GAL 2:20']),
+('love-in-practice','new-testament','Amor em prática','Serviço, perdão e vida em comunidade nas cartas.',2,False,['1CO 13:4','1CO 13:5','1CO 13:6','1CO 13:7','EPH 4:32','COL 3:14']),
+('perseverance-and-hope','new-testament','Perseverança e esperança','Fé perseverante e esperança na consumação.',3,False,['HEB 11:1','HEB 12:1','HEB 12:2','JAM 1:5','1PE 1:3','REV 21:4']),
+('following-jesus','with-christ','O chamado de Jesus','Ouvir o chamado e compreender o discipulado.',2,False,['MAR 1:15','MAT 4:19','LUK 9:23','JOH 8:12','JOH 10:11','JOH 14:6']),
+('kingdom-teachings','with-christ','Ensinamentos do Reino','Passagens do Sermão do Monte.',2,False,['MAT 5:3','MAT 5:9','MAT 5:14','MAT 5:16','MAT 6:33','MAT 7:12']),
+('prayer-and-love','with-christ','Oração e amor','Aprender com Jesus a orar, amar e permanecer.',2,False,['MAT 6:9','MAT 7:7','MAT 22:37','MAT 22:39','JOH 13:34','JOH 15:5']),
+('cross-and-resurrection','with-christ','Cruz e ressurreição','Recordar a entrega de Jesus e sua comissão.',3,False,['MAR 10:45','LUK 22:19','JOH 19:30','MAT 28:6','MAT 28:19','MAT 28:20'])]

@@ -1,0 +1,578 @@
+[
+  {
+    "unit_id": "first-verses-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:1TH.5.16",
+    "learning_item_id": "blivre-tr-2018.2.0:1TH.5.16:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "first-verses-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:1TH.5.17",
+    "learning_item_id": "blivre-tr-2018.2.0:1TH.5.17:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "first-verses-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:1JO.4.19",
+    "learning_item_id": "blivre-tr-2018.2.0:1JO.4.19:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "first-verses-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:PSA.119.105",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.119.105:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "first-verses-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:PHI.4.13",
+    "learning_item_id": "blivre-tr-2018.2.0:PHI.4.13:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "first-verses-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:PRO.3.5",
+    "learning_item_id": "blivre-tr-2018.2.0:PRO.3.5:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "trust-and-care-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:PSA.56.3",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.56.3:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "trust-and-care-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:PSA.121.2",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.121.2:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "trust-and-care-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:1PE.5.7",
+    "learning_item_id": "blivre-tr-2018.2.0:1PE.5.7:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "trust-and-care-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:ROM.12.12",
+    "learning_item_id": "blivre-tr-2018.2.0:ROM.12.12:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "trust-and-care-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:PSA.37.5",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.37.5:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "trust-and-care-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:MAT.11.28",
+    "learning_item_id": "blivre-tr-2018.2.0:MAT.11.28:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "essential-faith-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:JOH.3.16",
+    "learning_item_id": "blivre-tr-2018.2.0:JOH.3.16:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "essential-faith-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:ROM.3.23",
+    "learning_item_id": "blivre-tr-2018.2.0:ROM.3.23:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "essential-faith-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:ROM.6.23",
+    "learning_item_id": "blivre-tr-2018.2.0:ROM.6.23:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "essential-faith-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:EPH.2.8",
+    "learning_item_id": "blivre-tr-2018.2.0:EPH.2.8:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "essential-faith-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:EPH.2.9",
+    "learning_item_id": "blivre-tr-2018.2.0:EPH.2.9:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "essential-faith-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:ROM.8.1",
+    "learning_item_id": "blivre-tr-2018.2.0:ROM.8.1:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "creation-and-covenant-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:GEN.1.1",
+    "learning_item_id": "blivre-tr-2018.2.0:GEN.1.1:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "creation-and-covenant-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:GEN.1.27",
+    "learning_item_id": "blivre-tr-2018.2.0:GEN.1.27:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "creation-and-covenant-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:GEN.12.2",
+    "learning_item_id": "blivre-tr-2018.2.0:GEN.12.2:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "creation-and-covenant-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:EXO.20.3",
+    "learning_item_id": "blivre-tr-2018.2.0:EXO.20.3:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "creation-and-covenant-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:DEU.6.4",
+    "learning_item_id": "blivre-tr-2018.2.0:DEU.6.4:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "creation-and-covenant-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:DEU.6.5",
+    "learning_item_id": "blivre-tr-2018.2.0:DEU.6.5:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "courage-and-faithfulness-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:JOS.1.9",
+    "learning_item_id": "blivre-tr-2018.2.0:JOS.1.9:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "courage-and-faithfulness-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:JOS.24.15",
+    "learning_item_id": "blivre-tr-2018.2.0:JOS.24.15:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "courage-and-faithfulness-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:RUT.1.16",
+    "learning_item_id": "blivre-tr-2018.2.0:RUT.1.16:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "courage-and-faithfulness-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:1SA.16.7",
+    "learning_item_id": "blivre-tr-2018.2.0:1SA.16.7:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "courage-and-faithfulness-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:2SA.22.31",
+    "learning_item_id": "blivre-tr-2018.2.0:2SA.22.31:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "courage-and-faithfulness-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:NEH.8.10",
+    "learning_item_id": "blivre-tr-2018.2.0:NEH.8.10:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "psalms-of-trust-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:PSA.23.1",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.23.1:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "psalms-of-trust-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:PSA.23.2",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.23.2:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "psalms-of-trust-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:PSA.23.3",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.23.3:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "psalms-of-trust-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:PSA.27.1",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.27.1:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "psalms-of-trust-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:PSA.46.1",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.46.1:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "psalms-of-trust-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:PSA.91.2",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.91.2:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "wisdom-for-life-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:PRO.1.7",
+    "learning_item_id": "blivre-tr-2018.2.0:PRO.1.7:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "wisdom-for-life-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:PRO.3.6",
+    "learning_item_id": "blivre-tr-2018.2.0:PRO.3.6:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "wisdom-for-life-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:PRO.4.23",
+    "learning_item_id": "blivre-tr-2018.2.0:PRO.4.23:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "wisdom-for-life-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:PRO.15.1",
+    "learning_item_id": "blivre-tr-2018.2.0:PRO.15.1:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "wisdom-for-life-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:PRO.16.3",
+    "learning_item_id": "blivre-tr-2018.2.0:PRO.16.3:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "wisdom-for-life-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:ECC.3.1",
+    "learning_item_id": "blivre-tr-2018.2.0:ECC.3.1:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "hope-in-the-prophets-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:ISA.40.31",
+    "learning_item_id": "blivre-tr-2018.2.0:ISA.40.31:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "hope-in-the-prophets-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:ISA.41.10",
+    "learning_item_id": "blivre-tr-2018.2.0:ISA.41.10:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "hope-in-the-prophets-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:JER.17.7",
+    "learning_item_id": "blivre-tr-2018.2.0:JER.17.7:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "hope-in-the-prophets-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:LAM.3.22",
+    "learning_item_id": "blivre-tr-2018.2.0:LAM.3.22:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "hope-in-the-prophets-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:LAM.3.23",
+    "learning_item_id": "blivre-tr-2018.2.0:LAM.3.23:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "hope-in-the-prophets-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:MIC.6.8",
+    "learning_item_id": "blivre-tr-2018.2.0:MIC.6.8:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "spirit-and-community-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:ACT.1.8",
+    "learning_item_id": "blivre-tr-2018.2.0:ACT.1.8:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "spirit-and-community-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:ACT.2.42",
+    "learning_item_id": "blivre-tr-2018.2.0:ACT.2.42:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "spirit-and-community-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:ACT.2.46",
+    "learning_item_id": "blivre-tr-2018.2.0:ACT.2.46:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "spirit-and-community-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:ACT.2.47",
+    "learning_item_id": "blivre-tr-2018.2.0:ACT.2.47:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "spirit-and-community-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:ACT.4.12",
+    "learning_item_id": "blivre-tr-2018.2.0:ACT.4.12:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "spirit-and-community-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:ACT.20.35",
+    "learning_item_id": "blivre-tr-2018.2.0:ACT.20.35:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "grace-and-new-life-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:ROM.5.1",
+    "learning_item_id": "blivre-tr-2018.2.0:ROM.5.1:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "grace-and-new-life-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:ROM.5.8",
+    "learning_item_id": "blivre-tr-2018.2.0:ROM.5.8:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "grace-and-new-life-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:ROM.8.28",
+    "learning_item_id": "blivre-tr-2018.2.0:ROM.8.28:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "grace-and-new-life-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:ROM.12.2",
+    "learning_item_id": "blivre-tr-2018.2.0:ROM.12.2:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "grace-and-new-life-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:2CO.5.17",
+    "learning_item_id": "blivre-tr-2018.2.0:2CO.5.17:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "grace-and-new-life-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:GAL.2.20",
+    "learning_item_id": "blivre-tr-2018.2.0:GAL.2.20:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "love-in-practice-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:1CO.13.4",
+    "learning_item_id": "blivre-tr-2018.2.0:1CO.13.4:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "love-in-practice-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:1CO.13.5",
+    "learning_item_id": "blivre-tr-2018.2.0:1CO.13.5:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "love-in-practice-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:1CO.13.6",
+    "learning_item_id": "blivre-tr-2018.2.0:1CO.13.6:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "love-in-practice-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:1CO.13.7",
+    "learning_item_id": "blivre-tr-2018.2.0:1CO.13.7:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "love-in-practice-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:EPH.4.32",
+    "learning_item_id": "blivre-tr-2018.2.0:EPH.4.32:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "love-in-practice-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:COL.3.14",
+    "learning_item_id": "blivre-tr-2018.2.0:COL.3.14:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "perseverance-and-hope-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:HEB.11.1",
+    "learning_item_id": "blivre-tr-2018.2.0:HEB.11.1:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "perseverance-and-hope-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:HEB.12.1",
+    "learning_item_id": "blivre-tr-2018.2.0:HEB.12.1:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "perseverance-and-hope-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:HEB.12.2",
+    "learning_item_id": "blivre-tr-2018.2.0:HEB.12.2:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "perseverance-and-hope-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:JAM.1.5",
+    "learning_item_id": "blivre-tr-2018.2.0:JAM.1.5:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "perseverance-and-hope-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:1PE.1.3",
+    "learning_item_id": "blivre-tr-2018.2.0:1PE.1.3:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "perseverance-and-hope-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:REV.21.4",
+    "learning_item_id": "blivre-tr-2018.2.0:REV.21.4:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "following-jesus-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:MAR.1.15",
+    "learning_item_id": "blivre-tr-2018.2.0:MAR.1.15:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "following-jesus-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:MAT.4.19",
+    "learning_item_id": "blivre-tr-2018.2.0:MAT.4.19:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "following-jesus-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:LUK.9.23",
+    "learning_item_id": "blivre-tr-2018.2.0:LUK.9.23:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "following-jesus-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:JOH.8.12",
+    "learning_item_id": "blivre-tr-2018.2.0:JOH.8.12:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "following-jesus-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:JOH.10.11",
+    "learning_item_id": "blivre-tr-2018.2.0:JOH.10.11:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "following-jesus-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:JOH.14.6",
+    "learning_item_id": "blivre-tr-2018.2.0:JOH.14.6:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "kingdom-teachings-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:MAT.5.3",
+    "learning_item_id": "blivre-tr-2018.2.0:MAT.5.3:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "kingdom-teachings-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:MAT.5.9",
+    "learning_item_id": "blivre-tr-2018.2.0:MAT.5.9:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "kingdom-teachings-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:MAT.5.14",
+    "learning_item_id": "blivre-tr-2018.2.0:MAT.5.14:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "kingdom-teachings-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:MAT.5.16",
+    "learning_item_id": "blivre-tr-2018.2.0:MAT.5.16:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "kingdom-teachings-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:MAT.6.33",
+    "learning_item_id": "blivre-tr-2018.2.0:MAT.6.33:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "kingdom-teachings-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:MAT.7.12",
+    "learning_item_id": "blivre-tr-2018.2.0:MAT.7.12:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "prayer-and-love-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:MAT.6.9",
+    "learning_item_id": "blivre-tr-2018.2.0:MAT.6.9:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "prayer-and-love-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:MAT.7.7",
+    "learning_item_id": "blivre-tr-2018.2.0:MAT.7.7:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "prayer-and-love-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:MAT.22.37",
+    "learning_item_id": "blivre-tr-2018.2.0:MAT.22.37:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "prayer-and-love-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:MAT.22.39",
+    "learning_item_id": "blivre-tr-2018.2.0:MAT.22.39:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "prayer-and-love-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:JOH.13.34",
+    "learning_item_id": "blivre-tr-2018.2.0:JOH.13.34:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "prayer-and-love-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:JOH.15.5",
+    "learning_item_id": "blivre-tr-2018.2.0:JOH.15.5:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "cross-and-resurrection-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:MAR.10.45",
+    "learning_item_id": "blivre-tr-2018.2.0:MAR.10.45:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "cross-and-resurrection-stage-1",
+    "verse_id": "blivre-tr-2018.2.0:LUK.22.19",
+    "learning_item_id": "blivre-tr-2018.2.0:LUK.22.19:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "cross-and-resurrection-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:JOH.19.30",
+    "learning_item_id": "blivre-tr-2018.2.0:JOH.19.30:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "cross-and-resurrection-stage-2",
+    "verse_id": "blivre-tr-2018.2.0:MAT.28.6",
+    "learning_item_id": "blivre-tr-2018.2.0:MAT.28.6:learning-v1",
+    "position": 2
+  },
+  {
+    "unit_id": "cross-and-resurrection-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:MAT.28.19",
+    "learning_item_id": "blivre-tr-2018.2.0:MAT.28.19:learning-v1",
+    "position": 1
+  },
+  {
+    "unit_id": "cross-and-resurrection-stage-3",
+    "verse_id": "blivre-tr-2018.2.0:MAT.28.20",
+    "learning_item_id": "blivre-tr-2018.2.0:MAT.28.20:learning-v1",
+    "position": 2
+  }
+]

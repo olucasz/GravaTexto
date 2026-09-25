@@ -1,0 +1,178 @@
+[
+  {
+    "id": "first-verses",
+    "collection_id": "foundations",
+    "title": "Primeiros versículos",
+    "description": "Textos curtos para ganhar confiança e aprender referências.",
+    "difficulty": 1,
+    "position": 1,
+    "availability": "prototype",
+    "editorial_status": "draft",
+    "verse_count": 6
+  },
+  {
+    "id": "trust-and-care",
+    "collection_id": "foundations",
+    "title": "Confiança e cuidado",
+    "description": "Entregar preocupações a Deus e lembrar de seu cuidado.",
+    "difficulty": 1,
+    "position": 2,
+    "availability": "prototype",
+    "editorial_status": "draft",
+    "verse_count": 6
+  },
+  {
+    "id": "essential-faith",
+    "collection_id": "foundations",
+    "title": "Essenciais da fé",
+    "description": "Aprofundar passagens conhecidas sobre amor, fé e graça.",
+    "difficulty": 2,
+    "position": 3,
+    "availability": "planned",
+    "editorial_status": "draft",
+    "verse_count": 6
+  },
+  {
+    "id": "creation-and-covenant",
+    "collection_id": "old-testament",
+    "title": "Criação e aliança",
+    "description": "Da criação ao chamado para amar a Deus.",
+    "difficulty": 2,
+    "position": 4,
+    "availability": "planned",
+    "editorial_status": "draft",
+    "verse_count": 6
+  },
+  {
+    "id": "courage-and-faithfulness",
+    "collection_id": "old-testament",
+    "title": "Coragem e fidelidade",
+    "description": "Lembrar de Deus nas decisões e nos desafios.",
+    "difficulty": 2,
+    "position": 5,
+    "availability": "planned",
+    "editorial_status": "draft",
+    "verse_count": 6
+  },
+  {
+    "id": "psalms-of-trust",
+    "collection_id": "old-testament",
+    "title": "Salmos de confiança",
+    "description": "Memorizar orações e imagens de refúgio.",
+    "difficulty": 2,
+    "position": 6,
+    "availability": "planned",
+    "editorial_status": "draft",
+    "verse_count": 6
+  },
+  {
+    "id": "wisdom-for-life",
+    "collection_id": "old-testament",
+    "title": "Sabedoria para viver",
+    "description": "Palavras, decisões e caminhos na literatura de sabedoria.",
+    "difficulty": 2,
+    "position": 7,
+    "availability": "planned",
+    "editorial_status": "draft",
+    "verse_count": 6
+  },
+  {
+    "id": "hope-in-the-prophets",
+    "collection_id": "old-testament",
+    "title": "Esperança nos profetas",
+    "description": "Justiça, esperança e fidelidade em seus contextos.",
+    "difficulty": 3,
+    "position": 8,
+    "availability": "planned",
+    "editorial_status": "draft",
+    "verse_count": 6
+  },
+  {
+    "id": "spirit-and-community",
+    "collection_id": "new-testament",
+    "title": "Espírito e comunidade",
+    "description": "A missão e a comunhão na igreja em Atos.",
+    "difficulty": 2,
+    "position": 9,
+    "availability": "planned",
+    "editorial_status": "draft",
+    "verse_count": 6
+  },
+  {
+    "id": "grace-and-new-life",
+    "collection_id": "new-testament",
+    "title": "Graça e nova vida",
+    "description": "Salvação, transformação e caminhada pela fé.",
+    "difficulty": 3,
+    "position": 10,
+    "availability": "planned",
+    "editorial_status": "draft",
+    "verse_count": 6
+  },
+  {
+    "id": "love-in-practice",
+    "collection_id": "new-testament",
+    "title": "Amor em prática",
+    "description": "Serviço, perdão e vida em comunidade nas cartas.",
+    "difficulty": 2,
+    "position": 11,
+    "availability": "planned",
+    "editorial_status": "draft",
+    "verse_count": 6
+  },
+  {
+    "id": "perseverance-and-hope",
+    "collection_id": "new-testament",
+    "title": "Perseverança e esperança",
+    "description": "Fé perseverante e esperança na consumação.",
+    "difficulty": 3,
+    "position": 12,
+    "availability": "planned",
+    "editorial_status": "draft",
+    "verse_count": 6
+  },
+  {
+    "id": "following-jesus",
+    "collection_id": "with-christ",
+    "title": "O chamado de Jesus",
+    "description": "Ouvir o chamado e compreender o discipulado.",
+    "difficulty": 2,
+    "position": 13,
+    "availability": "planned",
+    "editorial_status": "draft",
+    "verse_count": 6
+  },
+  {
+    "id": "kingdom-teachings",
+    "collection_id": "with-christ",
+    "title": "Ensinamentos do Reino",
+    "description": "Passagens do Sermão do Monte.",
+    "difficulty": 2,
+    "position": 14,
+    "availability": "planned",
+    "editorial_status": "draft",
+    "verse_count": 6
+  },
+  {
+    "id": "prayer-and-love",
+    "collection_id": "with-christ",
+    "title": "Oração e amor",
+    "description": "Aprender com Jesus a orar, amar e permanecer.",
+    "difficulty": 2,
+    "position": 15,
+    "availability": "planned",
+    "editorial_status": "draft",
+    "verse_count": 6
+  },
+  {
+    "id": "cross-and-resurrection",
+    "collection_id": "with-christ",
+    "title": "Cruz e ressurreição",
+    "description": "Recordar a entrega de Jesus e sua comissão.",
+    "difficulty": 3,
+    "position": 16,
+    "availability": "planned",
+    "editorial_status": "draft",
+    "verse_count": 6
+  }
+]

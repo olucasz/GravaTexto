@@ -1,0 +1,55 @@
+{
+  "version": "0.1",
+  "status": "prototype_proposal",
+  "typing_required": false,
+  "voice_enabled": false,
+  "session": {
+    "first_session_new_verses": 2,
+    "later_session_max_new_verses": 1,
+    "max_review_verses": 2,
+    "base_exercise_count": 8,
+    "max_reinforcement_exercises": 3,
+    "new_text_requires_reading_card": true,
+    "avoid_consecutive_same_kind": true,
+    "min_intervening_exercises_before_retry": 2,
+    "option_order_seeded": true,
+    "match_only_previously_introduced_verses": true
+  },
+  "feedback": {
+    "timing": "immediate_after_confirmation",
+    "show_correct_answer": true,
+    "advance_after_feedback": true,
+    "repeat_wrong_at_end": true,
+    "retry_same_dimension": true,
+    "second_failure": "show_correction_and_schedule_next_day",
+    "no_lives": true
+  },
+  "progress": {
+    "key": [
+      "user_id",
+      "translation_id",
+      "verse_id",
+      "target_dimension"
+    ],
+    "dimensions": [
+      "text",
+      "reference"
+    ],
+    "assisted_success_advances_interval": false,
+    "initial_review_days": 1,
+    "independent_review_intervals_days": [
+      1,
+      3,
+      7,
+      14,
+      30
+    ],
+    "repeat_wrong_dimension_next_day": true,
+    "session_completion_does_not_equal_mastery": true,
+    "timezone": "user_configured"
+  },
+  "publication": {
+    "prototype_filter": "availability = 'prototype'",
+    "production_requires_editorial_approval": true
+  }
+}

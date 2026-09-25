@@ -1,0 +1,6 @@
+# GravaTexto
+Protótipo local de prática bíblica para leitores de português, mobile-first. Duas jornadas, 12 textos da Bíblia Livre TR 2018.2.0, conteúdo exclusivamente da base preservada. O usuário escolhe uma jornada, lê textos novos, responde puzzles, recebe correção e retorna às revisões por dimensão. Prática com pistas não comprova memorização.
+React/TypeScript/Vite; sem conta, backend, voz, publicação ou telemetria remota. Persistência local versionada. Galeria e cenários isolados apenas em desenvolvimento/teste. Direção aprovada como base: papel claro, verde, Nunito Sans local, peças táteis, ilustrações originais discretas. Refinamento pedido em 25/09/2026: distratores plausíveis, peças menores com extras, lacunas múltiplas, dificuldade gradual, iniciais e digitação opcional, motion discreto e gamificação factual sem alegar domínio.
+Evolução de 25/09/2026: Home com missão diária, trilhas por jornada, navegação Hoje/Jornada/Explorar/Perfil e PWA instalável/offline. XP descreve respostas corretas independentes; sequência descreve dias com sessões concluídas. Nenhuma métrica mede fé, compreensão teológica ou valor pessoal.
+
+Fonte de requisitos: specs/001-playable-prototype/spec.md, refinement.md e gamification-pwa.md. Revisão editorial, teste físico da instalação e piloto humano ainda pendentes.

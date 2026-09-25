@@ -1,0 +1,13 @@
+PRAGMA foreign_keys=ON;
+CREATE TABLE translations(id TEXT PRIMARY KEY, name TEXT NOT NULL, license TEXT NOT NULL, metadata_json TEXT NOT NULL);
+CREATE TABLE books(id TEXT PRIMARY KEY, name TEXT NOT NULL, testament TEXT NOT NULL CHECK(testament IN ('OT','NT')), canonical_order INTEGER UNIQUE NOT NULL);
+CREATE TABLE verses(id TEXT PRIMARY KEY, translation_id TEXT NOT NULL REFERENCES translations(id), book_id TEXT NOT NULL REFERENCES books(id), chapter INTEGER NOT NULL CHECK(chapter>0), verse INTEGER NOT NULL CHECK(verse>0), text TEXT NOT NULL, text_sha256 TEXT NOT NULL, UNIQUE(translation_id,book_id,chapter,verse));
+CREATE TABLE collections(id TEXT PRIMARY KEY,title TEXT NOT NULL,position INTEGER NOT NULL);
+CREATE TABLE journeys(id TEXT PRIMARY KEY,collection_id TEXT NOT NULL REFERENCES collections(id),title TEXT NOT NULL,description TEXT NOT NULL,difficulty INTEGER NOT NULL,availability TEXT NOT NULL,editorial_status TEXT NOT NULL,position INTEGER NOT NULL);
+CREATE TABLE units(id TEXT PRIMARY KEY,journey_id TEXT NOT NULL REFERENCES journeys(id),title TEXT NOT NULL,position INTEGER NOT NULL,UNIQUE(journey_id,position));
+CREATE TABLE learning_items(id TEXT PRIMARY KEY,verse_id TEXT NOT NULL REFERENCES verses(id),text TEXT NOT NULL,metadata_json TEXT NOT NULL);
+CREATE TABLE unit_verses(unit_id TEXT NOT NULL REFERENCES units(id),verse_id TEXT NOT NULL REFERENCES verses(id),learning_item_id TEXT NOT NULL REFERENCES learning_items(id),position INTEGER NOT NULL,PRIMARY KEY(unit_id,position),UNIQUE(unit_id,verse_id));
+CREATE TABLE puzzles(id TEXT PRIMARY KEY,learning_item_id TEXT NOT NULL REFERENCES learning_items(id),kind TEXT NOT NULL,target_dimension TEXT NOT NULL,payload_json TEXT NOT NULL,editorial_status TEXT NOT NULL);
+CREATE INDEX idx_verses_lookup ON verses(translation_id,book_id,chapter,verse);
+CREATE INDEX idx_units_journey ON units(journey_id,position);
+CREATE INDEX idx_puzzles_item ON puzzles(learning_item_id,kind);

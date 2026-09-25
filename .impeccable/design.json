@@ -1,0 +1,441 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-25T12:55:09.298597+00:00",
+  "title": "Design System: GravaTexto",
+  "extensions": {
+    "colorMeta": {
+      "paper": {
+        "role": "neutral",
+        "displayName": "paper",
+        "tonalRamp": [
+          "oklch(15.00% 0.01080 95.16)",
+          "oklch(26.43% 0.01080 95.16)",
+          "oklch(37.86% 0.01080 95.16)",
+          "oklch(49.29% 0.01080 95.16)",
+          "oklch(60.71% 0.01080 95.16)",
+          "oklch(72.14% 0.01080 95.16)",
+          "oklch(83.57% 0.01080 95.16)",
+          "oklch(95.00% 0.01080 95.16)"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "surface",
+        "tonalRamp": [
+          "oklch(15.00% 0.00000 89.88)",
+          "oklch(26.43% 0.00000 89.88)",
+          "oklch(37.86% 0.00000 89.88)",
+          "oklch(49.29% 0.00000 89.88)",
+          "oklch(60.71% 0.00000 89.88)",
+          "oklch(72.14% 0.00000 89.88)",
+          "oklch(83.57% 0.00000 89.88)",
+          "oklch(95.00% 0.00000 89.88)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "ink",
+        "tonalRamp": [
+          "oklch(15.00% 0.03702 167.59)",
+          "oklch(26.43% 0.03702 167.59)",
+          "oklch(37.86% 0.03702 167.59)",
+          "oklch(49.29% 0.03702 167.59)",
+          "oklch(60.71% 0.03702 167.59)",
+          "oklch(72.14% 0.03702 167.59)",
+          "oklch(83.57% 0.03702 167.59)",
+          "oklch(95.00% 0.03702 167.59)"
+        ]
+      },
+      "brand": {
+        "role": "primary",
+        "displayName": "brand",
+        "tonalRamp": [
+          "oklch(15.00% 0.07119 162.26)",
+          "oklch(26.43% 0.07119 162.26)",
+          "oklch(37.86% 0.07119 162.26)",
+          "oklch(49.29% 0.07119 162.26)",
+          "oklch(60.71% 0.07119 162.26)",
+          "oklch(72.14% 0.07119 162.26)",
+          "oklch(83.57% 0.07119 162.26)",
+          "oklch(95.00% 0.07119 162.26)"
+        ]
+      },
+      "selected": {
+        "role": "primary",
+        "displayName": "selected",
+        "tonalRamp": [
+          "oklch(15.00% 0.02652 125.61)",
+          "oklch(26.43% 0.02652 125.61)",
+          "oklch(37.86% 0.02652 125.61)",
+          "oklch(49.29% 0.02652 125.61)",
+          "oklch(60.71% 0.02652 125.61)",
+          "oklch(72.14% 0.02652 125.61)",
+          "oklch(83.57% 0.02652 125.61)",
+          "oklch(95.00% 0.02652 125.61)"
+        ]
+      },
+      "correction": {
+        "role": "semantic",
+        "displayName": "correction",
+        "tonalRamp": [
+          "oklch(15.00% 0.01936 55.15)",
+          "oklch(26.43% 0.01936 55.15)",
+          "oklch(37.86% 0.01936 55.15)",
+          "oklch(49.29% 0.01936 55.15)",
+          "oklch(60.71% 0.01936 55.15)",
+          "oklch(72.14% 0.01936 55.15)",
+          "oklch(83.57% 0.01936 55.15)",
+          "oklch(95.00% 0.01936 55.15)"
+        ]
+      },
+      "correction-ink": {
+        "role": "semantic",
+        "displayName": "correction-ink",
+        "tonalRamp": [
+          "oklch(15.00% 0.11187 36.05)",
+          "oklch(26.43% 0.11187 36.05)",
+          "oklch(37.86% 0.11187 36.05)",
+          "oklch(49.29% 0.11187 36.05)",
+          "oklch(60.71% 0.11187 36.05)",
+          "oklch(72.14% 0.11187 36.05)",
+          "oklch(83.57% 0.11187 36.05)",
+          "oklch(95.00% 0.11187 36.05)"
+        ]
+      },
+      "focus": {
+        "role": "semantic",
+        "displayName": "focus",
+        "tonalRamp": [
+          "oklch(15.00% 0.13456 260.27)",
+          "oklch(26.43% 0.13456 260.27)",
+          "oklch(37.86% 0.13456 260.27)",
+          "oklch(49.29% 0.13456 260.27)",
+          "oklch(60.71% 0.13456 260.27)",
+          "oklch(72.14% 0.13456 260.27)",
+          "oklch(83.57% 0.13456 260.27)",
+          "oklch(95.00% 0.13456 260.27)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "muted",
+        "tonalRamp": [
+          "oklch(15.00% 0.02626 151.19)",
+          "oklch(26.43% 0.02626 151.19)",
+          "oklch(37.86% 0.02626 151.19)",
+          "oklch(49.29% 0.02626 151.19)",
+          "oklch(60.71% 0.02626 151.19)",
+          "oklch(72.14% 0.02626 151.19)",
+          "oklch(83.57% 0.02626 151.19)",
+          "oklch(95.00% 0.02626 151.19)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "line",
+        "tonalRamp": [
+          "oklch(15.00% 0.02249 123.67)",
+          "oklch(26.43% 0.02249 123.67)",
+          "oklch(37.86% 0.02249 123.67)",
+          "oklch(49.29% 0.02249 123.67)",
+          "oklch(60.71% 0.02249 123.67)",
+          "oklch(72.14% 0.02249 123.67)",
+          "oklch(83.57% 0.02249 123.67)",
+          "oklch(95.00% 0.02249 123.67)"
+        ]
+      },
+      "surface-secondary": {
+        "displayName": "surface-secondary",
+        "role": "neutral",
+        "tonalRamp": [
+          "oklch(15.00% 0.01674 125.29)",
+          "oklch(26.43% 0.01674 125.29)",
+          "oklch(37.86% 0.01674 125.29)",
+          "oklch(49.29% 0.01674 125.29)",
+          "oklch(60.71% 0.01674 125.29)",
+          "oklch(72.14% 0.01674 125.29)",
+          "oklch(83.57% 0.01674 125.29)",
+          "oklch(95.00% 0.01674 125.29)"
+        ]
+      },
+      "surface-raised": {
+        "displayName": "surface-raised",
+        "role": "neutral",
+        "tonalRamp": [
+          "oklch(15.00% 0.00794 114.21)",
+          "oklch(26.43% 0.00794 114.21)",
+          "oklch(37.86% 0.00794 114.21)",
+          "oklch(49.29% 0.00794 114.21)",
+          "oklch(60.71% 0.00794 114.21)",
+          "oklch(72.14% 0.00794 114.21)",
+          "oklch(83.57% 0.00794 114.21)",
+          "oklch(95.00% 0.00794 114.21)"
+        ]
+      },
+      "surface-highlight": {
+        "displayName": "surface-highlight",
+        "role": "neutral",
+        "tonalRamp": [
+          "oklch(15.00% 0.04355 121.36)",
+          "oklch(26.43% 0.04355 121.36)",
+          "oklch(37.86% 0.04355 121.36)",
+          "oklch(49.29% 0.04355 121.36)",
+          "oklch(60.71% 0.04355 121.36)",
+          "oklch(72.14% 0.04355 121.36)",
+          "oklch(83.57% 0.04355 121.36)",
+          "oklch(95.00% 0.04355 121.36)"
+        ]
+      },
+      "sprout": {
+        "displayName": "sprout",
+        "role": "secondary",
+        "tonalRamp": [
+          "oklch(15.00% 0.12465 124.58)",
+          "oklch(26.43% 0.12465 124.58)",
+          "oklch(37.86% 0.12465 124.58)",
+          "oklch(49.29% 0.12465 124.58)",
+          "oklch(60.71% 0.12465 124.58)",
+          "oklch(72.14% 0.12465 124.58)",
+          "oklch(83.57% 0.12465 124.58)",
+          "oklch(95.00% 0.12465 124.58)"
+        ]
+      },
+      "honey": {
+        "displayName": "honey",
+        "role": "secondary",
+        "tonalRamp": [
+          "oklch(15.00% 0.13135 85.59)",
+          "oklch(26.43% 0.13135 85.59)",
+          "oklch(37.86% 0.13135 85.59)",
+          "oklch(49.29% 0.13135 85.59)",
+          "oklch(60.71% 0.13135 85.59)",
+          "oklch(72.14% 0.13135 85.59)",
+          "oklch(83.57% 0.13135 85.59)",
+          "oklch(95.00% 0.13135 85.59)"
+        ]
+      },
+      "sage": {
+        "displayName": "sage",
+        "role": "secondary",
+        "tonalRamp": [
+          "oklch(15.00% 0.08496 131.20)",
+          "oklch(26.43% 0.08496 131.20)",
+          "oklch(37.86% 0.08496 131.20)",
+          "oklch(49.29% 0.08496 131.20)",
+          "oklch(60.71% 0.08496 131.20)",
+          "oklch(72.14% 0.08496 131.20)",
+          "oklch(83.57% 0.08496 131.20)",
+          "oklch(95.00% 0.08496 131.20)"
+        ]
+      }
+    },
+    "shadows": [
+      {
+        "name": "action",
+        "value": "0 3px 1px #173D2C",
+        "purpose": "Relevo da ação principal."
+      },
+      {
+        "name": "action-light",
+        "value": "0 3px 1px #C7D3B7",
+        "purpose": "Relevo da ação leve."
+      },
+      {
+        "name": "piece",
+        "value": "0 2px 2px #D8DECE",
+        "purpose": "Peças acionáveis."
+      },
+      {
+        "name": "raised",
+        "value": "0 16px 40px #25463414,0 3px 10px #25463412",
+        "purpose": "Cartões e métricas elevados."
+      },
+      {
+        "name": "mission",
+        "value": "0 20px 50px #173d2c26",
+        "purpose": "Missão verde."
+      },
+      {
+        "name": "node-available",
+        "value": "0 8px 18px #65823d38,0 4px 0 #77984D",
+        "purpose": "Nó disponível."
+      }
+    ],
+    "motion": [
+      {
+        "name": "piece-move",
+        "value": "190ms cubic-bezier(.2,.7,.2,1)",
+        "purpose": "Reposicionamento FLIP."
+      },
+      {
+        "name": "piece-state",
+        "value": "140ms ease",
+        "purpose": "Estado da peça."
+      },
+      {
+        "name": "progress",
+        "value": "250ms ease",
+        "purpose": "scaleX do progresso."
+      },
+      {
+        "name": "correct-feedback",
+        "value": "180ms ease-out",
+        "purpose": "Pulso do ícone de acerto."
+      },
+      {
+        "name": "result-settle",
+        "value": "650ms ease-out",
+        "purpose": "Acomodação da arte do resultado."
+      },
+      {
+        "name": "ease-out",
+        "value": "cubic-bezier(.2,.8,.2,1)",
+        "purpose": "Pressão e desbloqueio de nós."
+      },
+      {
+        "name": "node-breathe",
+        "value": "2.6s ease-in-out infinite",
+        "purpose": "Nó em andamento."
+      },
+      {
+        "name": "unlock",
+        "value": "600ms cubic-bezier(.2,.8,.2,1)",
+        "purpose": "Desbloqueio ao retornar à trilha."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "compact",
+        "value": "350px"
+      },
+      {
+        "name": "narrow-pairs",
+        "value": "370px"
+      },
+      {
+        "name": "mobile",
+        "value": "640px"
+      },
+      {
+        "name": "bottom-navigation",
+        "value": "1023px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Botão primary",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Botão primary conforme a interface implementada.",
+      "html": "<button class=\"ds-button-primary\">Continuar</button>",
+      "css": ".ds-button-primary{font-family:Nunito,system-ui,sans-serif;min-height:54px;border:0;border-radius:12px;padding:14px 22px;font-size:17px;font-weight:800;background:var(--brand,#245B43);color:#fff;box-shadow:0 3px 1px #173D2C;cursor:pointer;transition:transform .1s,background .15s}.ds-button-primary:hover{background:#1D4C37}.ds-button-primary:active{transform:translateY(2px);box-shadow:0 1px 1px #173D2C}.ds-button-primary:focus-visible{outline:3px solid var(--focus,#315FAD);outline-offset:4px}@media(prefers-reduced-motion:reduce){.ds-button-primary{transition:none}.ds-button-primary:active{transform:none}}"
+    },
+    {
+      "name": "Botão light",
+      "kind": "button",
+      "description": "Botão light conforme a interface implementada.",
+      "html": "<button class=\"ds-button-light\">Continuar</button>",
+      "css": ".ds-button-light{font-family:Nunito,system-ui,sans-serif;min-height:54px;border:0;border-radius:12px;padding:14px 22px;font-size:17px;font-weight:800;background:#E7EEDB;color:var(--brand,#245B43);box-shadow:0 3px 1px #C7D3B7;cursor:pointer;transition:transform .1s,background .15s}.ds-button-light:hover{background:#D8E5C6}.ds-button-light:active{transform:translateY(2px);box-shadow:0 1px 1px #173D2C}.ds-button-light:focus-visible{outline:3px solid var(--focus,#315FAD);outline-offset:4px}@media(prefers-reduced-motion:reduce){.ds-button-light{transition:none}.ds-button-light:active{transform:none}}"
+    },
+    {
+      "name": "Ação textual",
+      "kind": "button",
+      "description": "Ação textual conforme a interface implementada.",
+      "html": "<button class=\"ds-text\">Ver contexto</button>",
+      "css": ".ds-text{font-family:Nunito,system-ui,sans-serif;padding:12px 0;min-height:48px;border:0;background:none;color:var(--brand,#245B43);font-weight:800;text-decoration:underline;text-underline-offset:5px;cursor:pointer}.ds-text:focus-visible{outline:3px solid var(--focus,#315FAD);outline-offset:4px}"
+    },
+    {
+      "name": "Alternativa selecionada",
+      "kind": "custom",
+      "refersTo": "option-selected",
+      "description": "Alternativa selecionada conforme a interface implementada.",
+      "html": "<button class=\"ds-option\" aria-pressed=\"true\">O Senhor é o meu pastor.</button>",
+      "css": ".ds-option{font-family:Nunito,system-ui,sans-serif;min-height:67px;width:100%;padding:15px 18px;border:2px solid var(--brand,#245B43);border-radius:12px;background:var(--selected,#EAF2DF);color:var(--ink,#203A30);font-size:17px;line-height:1.45;text-align:left;cursor:pointer;transition:border-color .14s,background .14s}.ds-option:active{transform:scale(.985)}.ds-option:focus-visible{outline:3px solid var(--focus,#315FAD);outline-offset:4px}@media(prefers-reduced-motion:reduce){.ds-option{transition:none}.ds-option:active{transform:none}}"
+    },
+    {
+      "name": "Peça",
+      "kind": "button",
+      "refersTo": "piece",
+      "description": "Peça conforme a interface implementada.",
+      "html": "<button class=\"ds-piece\">meu pastor</button>",
+      "css": ".ds-piece{font-family:Nunito,system-ui,sans-serif;min-height:48px;border:1px solid #BAC9AD;background:white;color:var(--ink,#203A30);padding:13px 16px;border-radius:10px;font-size:17px;line-height:1.4;box-shadow:0 2px 2px #D8DECE;transition:background 140ms,border-color 140ms,box-shadow 140ms;cursor:pointer}.ds-piece:hover{background:#EFF4E7}.ds-piece:active{transform:translateY(2px)}.ds-piece:focus-visible{outline:3px solid var(--focus,#315FAD);outline-offset:4px}@media(prefers-reduced-motion:reduce){.ds-piece{transition:none}.ds-piece:active{transform:none}}"
+    },
+    {
+      "name": "Resposta por digitação",
+      "kind": "input",
+      "description": "Resposta por digitação conforme a interface implementada.",
+      "html": "<label class=\"ds-label\" for=\"ds-answer\">Escreva como você se lembra</label><textarea class=\"ds-answer\" id=\"ds-answer\" rows=\"5\"></textarea>",
+      "css": ".ds-label{font-family:Nunito,system-ui,sans-serif;display:block;font-weight:800;color:var(--ink,#203A30)}.ds-answer{font-family:Nunito,system-ui,sans-serif;width:100%;resize:vertical;min-height:160px;border:2px solid #bac7ae;border-radius:14px;padding:16px;font-size:22px;line-height:1.5;color:var(--ink,#203A30);background:#fff}.ds-answer:focus-visible{outline:3px solid var(--focus,#315FAD);outline-offset:4px}"
+    },
+    {
+      "name": "Cartão elevado",
+      "kind": "card",
+      "refersTo": "journey-card",
+      "description": "Superfície de Explorar.",
+      "html": "<article class=\"ds-raised\"><h2>Primeiros versículos</h2><p>Textos curtos para ganhar confiança.</p></article>",
+      "css": ".ds-raised{font-family:Nunito,system-ui,sans-serif;padding:32px;background:var(--surface,#fff);border-radius:24px;box-shadow:var(--shadow-raised,0 16px 40px #25463414,0 3px 10px #25463412);color:var(--ink,#203A30)}.ds-raised h2{font-size:28px;margin:0}.ds-raised p{color:var(--muted,#58675B);line-height:1.6}"
+    },
+    {
+      "name": "Navegação principal",
+      "kind": "nav",
+      "refersTo": "navigation-active",
+      "description": "Destinos persistentes; lateral no desktop e abas no mobile.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Navegação principal\"><a href=\"#\" aria-current=\"page\">Hoje</a><a href=\"#\">Jornada</a><a href=\"#\">Explorar</a><a href=\"#\">Perfil</a></nav>",
+      "css": ".ds-nav{font-family:Nunito,system-ui,sans-serif;display:grid;gap:7px}.ds-nav a{min-height:52px;padding:12px 15px;border-radius:14px;color:var(--muted,#58675B);text-decoration:none;font-weight:750;display:flex;align-items:center}.ds-nav a:hover{background:#E4EAD9;color:var(--ink,#203A30)}.ds-nav a[aria-current]{background:var(--surface-highlight,#E5EFCF);color:var(--brand,#245B43)}.ds-nav a:focus-visible{outline:3px solid var(--focus,#315FAD);outline-offset:4px;}@media(max-width:640px){.ds-nav{grid-template-columns:repeat(4,1fr)}.ds-nav a{padding:7px;justify-content:center;font-size:11px;min-height:58px}}"
+    },
+    {
+      "name": "Nó disponível",
+      "kind": "custom",
+      "description": "Núcleo tátil com referência e estado factual.",
+      "html": "<button class=\"ds-node\"><span class=\"ds-core\">1</span><span><strong>1 Tessalonicenses 5:16</strong><small>Nova leitura</small><em>Disponível</em></span></button>",
+      "css": ".ds-node{font-family:Nunito,system-ui,sans-serif;display:flex;gap:16px;align-items:center;text-align:left;background:transparent;border:0;padding:5px;color:var(--ink,#203A30);cursor:pointer}.ds-core{width:72px;height:72px;flex:none;border-radius:24px;background:var(--sprout,#B7D77A);display:grid;place-items:center;box-shadow:0 8px 18px #65823d38,0 4px 0 #77984D;transition:transform 180ms var(--ease-out,cubic-bezier(.2,.8,.2,1))}.ds-node small,.ds-node em{display:block;color:var(--muted,#58675B)}.ds-node em{font-style:normal;font-size:11px;font-weight:850;margin-top:5px}.ds-node:active .ds-core{transform:translateY(3px) scale(.96)}.ds-node:focus-visible{outline:3px solid var(--focus,#315FAD);outline-offset:4px;}@media(prefers-reduced-motion:reduce){.ds-core{transition:none}.ds-node:active .ds-core{transform:none}}"
+    },
+    {
+      "name": "Status de atividade",
+      "kind": "chip",
+      "description": "Contagem factual de XP; sem medida de domínio.",
+      "html": "<span class=\"ds-status\">20 <small>XP</small></span>",
+      "css": ".ds-status{font-family:Nunito,system-ui,sans-serif;display:inline-flex;gap:7px;padding:9px 13px;background:#fff;border-radius:13px;font-weight:850;font-variant-numeric:tabular-nums;box-shadow:0 5px 18px #25463412;color:var(--ink,#203A30)}.ds-status small{font-weight:650;color:var(--muted,#58675B)}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Uma caminhada visível",
+    "overview": "A prática diária se transforma em uma caminhada visível. Papel quente, floresta profunda, broto e mel organizam uma interface acolhedora de leitura e ação. Folhas vetoriais, marcos lapidados e um caminho contínuo conectam a missão de hoje ao próximo texto.\n\nA Nunito Sans local mantém a voz familiar. Superfícies elevadas dão presença às missões e ao histórico; controles e nós têm relevo curto. XP, sequência e marcos representam atividade registrada no navegador, sem medir memorização ou espiritualidade. A experiência inclui instalação PWA, avisos de conexão e continuidade offline.",
+    "keyCharacteristics": [
+      "Papel quente, floresta profunda, broto e mel.",
+      "Hoje, Jornada, Explorar e Perfil em navegação persistente.",
+      "Trilha orgânica contínua com estados explícitos e marcos persistidos.",
+      "Superfícies elevadas, controles táteis e movimento reduzível."
+    ],
+    "rules": [
+      {
+        "name": "The Green Guides Rule",
+        "body": "Verde profundo organiza a experiência; broto indica ação disponível e mel indica atividade ou marco, sem representar domínio.",
+        "section": "colors"
+      },
+      {
+        "name": "The Reading First Rule",
+        "body": "O texto praticado recebe escala maior que instruções e metadados; não comprima a leitura para destacar uma pontuação.",
+        "section": "typography"
+      },
+      {
+        "name": "The Layered Path Rule",
+        "body": "Sombras ambientes separam painéis; bases curtas tornam botões, peças e nós acionáveis reconhecíveis.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do preservar papel, floresta, broto, mel e Nunito Sans local.",
+      "Do manter a trilha contínua alinhada aos centros dos nós em desktop e mobile.",
+      "Do usar rótulo e ícone junto às cores de estado, inclusive nos marcos persistidos.",
+      "Do reservar espaço para navegação inferior, avisos PWA e safe areas.",
+      "Do respeitar prefers-reduced-motion e descrever XP como atividade factual."
+    ],
+    "donts": [
+      "Don't apresentar XP, sequência ou “Muito praticado” como domínio, memorização ou espiritualidade.",
+      "Don't substituir o caminho contínuo por conectores desconexos.",
+      "Don't remover a hierarquia de superfícies elevadas nem aplicar o relevo de controle a todo painel."
+    ]
+  }
+}

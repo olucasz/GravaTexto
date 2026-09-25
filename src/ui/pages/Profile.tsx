@@ -1,0 +1,7 @@
+import { earnedXp,practiceStreak } from '../../journey/model';
+import { useStore } from '../store';
+import { AppShell } from '../components/AppShell';
+import { Icon } from '../components/Icon';
+import { InstallPwaButton } from '../components/PwaControls';
+import { Attribution } from '../components/Attribution';
+export function Profile(){const {state,replace}=useStore(),completed=Object.values(state.sessions).filter(s=>s.status==='completed').length;return <AppShell><main id="main" className="profile-page"><header><span className="profile-mark">L</span><div><h1>Sua caminhada</h1><p>Dados guardados neste navegador.</p></div></header><section className="profile-stats"><div><Icon name="sun"/><strong>{practiceStreak(state)}</strong><span>dias consecutivos</span></div><div><Icon name="spark"/><strong>{earnedXp(state)}</strong><span>XP de prática</span></div><div><Icon name="check"/><strong>{completed}</strong><span>sessões concluídas</span></div></section><section className="settings-block"><h2>Do seu jeito</h2><label className="typing-preference"><input type="checkbox" checked={state.preferences.typingEnabled} onChange={e=>replace({...state,preferences:{typingEnabled:e.target.checked}})}/><span><strong>Praticar também por digitação</strong><small>Opcional, em revisões avançadas.</small></span></label><InstallPwaButton/></section><section className="metric-note"><Icon name="info"/><p>XP e sequência representam uso do aplicativo. Não medem espiritualidade, compreensão teológica ou valor pessoal.</p></section><Attribution/></main></AppShell>}

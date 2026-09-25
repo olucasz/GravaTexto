@@ -1,0 +1,186 @@
+[
+  {
+    "id": "first-verses-example-day-1",
+    "journey_id": "first-verses",
+    "relative_day": 1,
+    "new_learning_item_ids": [
+      "blivre-tr-2018.2.0:1TH.5.16:learning-v1",
+      "blivre-tr-2018.2.0:1TH.5.17:learning-v1"
+    ],
+    "review_learning_item_ids": [],
+    "prelude": [
+      {
+        "kind": "read_and_context",
+        "learning_item_id": "blivre-tr-2018.2.0:1TH.5.16:learning-v1"
+      },
+      {
+        "kind": "read_and_context",
+        "learning_item_id": "blivre-tr-2018.2.0:1TH.5.17:learning-v1"
+      }
+    ],
+    "exercise_ids": [
+      "blivre-tr-2018.2.0:1TH.5.16:learning-v1:locate_reference",
+      "blivre-tr-2018.2.0:1TH.5.17:learning-v1:fill_gap",
+      "blivre-tr-2018.2.0:1TH.5.16:learning-v1:identify_text",
+      "blivre-tr-2018.2.0:1TH.5.17:learning-v1:locate_reference",
+      "blivre-tr-2018.2.0:1TH.5.16:learning-v1:fill_gap",
+      "blivre-tr-2018.2.0:1TH.5.17:learning-v1:identify_text",
+      "blivre-tr-2018.2.0:1TH.5.16:learning-v1:fill_gap",
+      "blivre-tr-2018.2.0:1TH.5.17:learning-v1:locate_reference"
+    ],
+    "reinforcement": "Append at most 3 questions for failed dimensions, after base exercises; failures on the last base question defer if fewer than 2 intervening questions.",
+    "note": "Exemplo didático. Vencimentos reais e seleção individual vêm do histórico; embaralhar alternativas em runtime."
+  },
+  {
+    "id": "first-verses-example-day-2",
+    "journey_id": "first-verses",
+    "relative_day": 2,
+    "new_learning_item_ids": [
+      "blivre-tr-2018.2.0:1JO.4.19:learning-v1"
+    ],
+    "review_learning_item_ids": [
+      "blivre-tr-2018.2.0:1TH.5.16:learning-v1",
+      "blivre-tr-2018.2.0:1TH.5.17:learning-v1"
+    ],
+    "prelude": [
+      {
+        "kind": "read_and_context",
+        "learning_item_id": "blivre-tr-2018.2.0:1JO.4.19:learning-v1"
+      }
+    ],
+    "exercise_ids": [
+      "blivre-tr-2018.2.0:1JO.4.19:learning-v1:locate_reference",
+      "blivre-tr-2018.2.0:1TH.5.16:learning-v1:fill_gap",
+      "blivre-tr-2018.2.0:1TH.5.17:learning-v1:identify_text",
+      "blivre-tr-2018.2.0:1JO.4.19:learning-v1:order_fragments",
+      "blivre-tr-2018.2.0:1TH.5.16:learning-v1:fill_gap",
+      "blivre-tr-2018.2.0:1TH.5.17:learning-v1:identify_text",
+      "blivre-tr-2018.2.0:1JO.4.19:learning-v1:fill_gap",
+      "blivre-tr-2018.2.0:1TH.5.16:learning-v1:locate_reference"
+    ],
+    "reinforcement": "Append at most 3 questions for failed dimensions, after base exercises; failures on the last base question defer if fewer than 2 intervening questions.",
+    "note": "Exemplo didático. Vencimentos reais e seleção individual vêm do histórico; embaralhar alternativas em runtime."
+  },
+  {
+    "id": "first-verses-example-day-3",
+    "journey_id": "first-verses",
+    "relative_day": 3,
+    "new_learning_item_ids": [
+      "blivre-tr-2018.2.0:PSA.119.105:learning-v1"
+    ],
+    "review_learning_item_ids": [
+      "blivre-tr-2018.2.0:1TH.5.17:learning-v1",
+      "blivre-tr-2018.2.0:1JO.4.19:learning-v1"
+    ],
+    "prelude": [
+      {
+        "kind": "read_and_context",
+        "learning_item_id": "blivre-tr-2018.2.0:PSA.119.105:learning-v1"
+      }
+    ],
+    "exercise_ids": [
+      "blivre-tr-2018.2.0:PSA.119.105:learning-v1:locate_reference",
+      "blivre-tr-2018.2.0:1TH.5.17:learning-v1:fill_gap",
+      "blivre-tr-2018.2.0:1JO.4.19:learning-v1:identify_text",
+      "blivre-tr-2018.2.0:PSA.119.105:learning-v1:order_fragments",
+      "blivre-tr-2018.2.0:1TH.5.17:learning-v1:fill_gap",
+      "blivre-tr-2018.2.0:1JO.4.19:learning-v1:identify_text",
+      "blivre-tr-2018.2.0:PSA.119.105:learning-v1:fill_gap",
+      "blivre-tr-2018.2.0:1TH.5.17:learning-v1:locate_reference"
+    ],
+    "reinforcement": "Append at most 3 questions for failed dimensions, after base exercises; failures on the last base question defer if fewer than 2 intervening questions.",
+    "note": "Exemplo didático. Vencimentos reais e seleção individual vêm do histórico; embaralhar alternativas em runtime."
+  },
+  {
+    "id": "trust-and-care-example-day-1",
+    "journey_id": "trust-and-care",
+    "relative_day": 1,
+    "new_learning_item_ids": [
+      "blivre-tr-2018.2.0:PSA.56.3:learning-v1",
+      "blivre-tr-2018.2.0:PSA.121.2:learning-v1"
+    ],
+    "review_learning_item_ids": [],
+    "prelude": [
+      {
+        "kind": "read_and_context",
+        "learning_item_id": "blivre-tr-2018.2.0:PSA.56.3:learning-v1"
+      },
+      {
+        "kind": "read_and_context",
+        "learning_item_id": "blivre-tr-2018.2.0:PSA.121.2:learning-v1"
+      }
+    ],
+    "exercise_ids": [
+      "blivre-tr-2018.2.0:PSA.56.3:learning-v1:locate_reference",
+      "blivre-tr-2018.2.0:PSA.121.2:learning-v1:fill_gap",
+      "blivre-tr-2018.2.0:PSA.56.3:learning-v1:identify_text",
+      "blivre-tr-2018.2.0:PSA.121.2:learning-v1:locate_reference",
+      "blivre-tr-2018.2.0:PSA.56.3:learning-v1:fill_gap",
+      "blivre-tr-2018.2.0:PSA.121.2:learning-v1:identify_text",
+      "blivre-tr-2018.2.0:PSA.56.3:learning-v1:fill_gap",
+      "blivre-tr-2018.2.0:PSA.121.2:learning-v1:locate_reference"
+    ],
+    "reinforcement": "Append at most 3 questions for failed dimensions, after base exercises; failures on the last base question defer if fewer than 2 intervening questions.",
+    "note": "Exemplo didático. Vencimentos reais e seleção individual vêm do histórico; embaralhar alternativas em runtime."
+  },
+  {
+    "id": "trust-and-care-example-day-2",
+    "journey_id": "trust-and-care",
+    "relative_day": 2,
+    "new_learning_item_ids": [
+      "blivre-tr-2018.2.0:1PE.5.7:learning-v1"
+    ],
+    "review_learning_item_ids": [
+      "blivre-tr-2018.2.0:PSA.56.3:learning-v1",
+      "blivre-tr-2018.2.0:PSA.121.2:learning-v1"
+    ],
+    "prelude": [
+      {
+        "kind": "read_and_context",
+        "learning_item_id": "blivre-tr-2018.2.0:1PE.5.7:learning-v1"
+      }
+    ],
+    "exercise_ids": [
+      "blivre-tr-2018.2.0:1PE.5.7:learning-v1:locate_reference",
+      "blivre-tr-2018.2.0:PSA.56.3:learning-v1:fill_gap",
+      "blivre-tr-2018.2.0:PSA.121.2:learning-v1:identify_text",
+      "blivre-tr-2018.2.0:1PE.5.7:learning-v1:order_fragments",
+      "blivre-tr-2018.2.0:PSA.56.3:learning-v1:fill_gap",
+      "blivre-tr-2018.2.0:PSA.121.2:learning-v1:identify_text",
+      "blivre-tr-2018.2.0:1PE.5.7:learning-v1:fill_gap",
+      "blivre-tr-2018.2.0:PSA.56.3:learning-v1:locate_reference"
+    ],
+    "reinforcement": "Append at most 3 questions for failed dimensions, after base exercises; failures on the last base question defer if fewer than 2 intervening questions.",
+    "note": "Exemplo didático. Vencimentos reais e seleção individual vêm do histórico; embaralhar alternativas em runtime."
+  },
+  {
+    "id": "trust-and-care-example-day-3",
+    "journey_id": "trust-and-care",
+    "relative_day": 3,
+    "new_learning_item_ids": [
+      "blivre-tr-2018.2.0:ROM.12.12:learning-v1"
+    ],
+    "review_learning_item_ids": [
+      "blivre-tr-2018.2.0:PSA.121.2:learning-v1",
+      "blivre-tr-2018.2.0:1PE.5.7:learning-v1"
+    ],
+    "prelude": [
+      {
+        "kind": "read_and_context",
+        "learning_item_id": "blivre-tr-2018.2.0:ROM.12.12:learning-v1"
+      }
+    ],
+    "exercise_ids": [
+      "blivre-tr-2018.2.0:ROM.12.12:learning-v1:locate_reference",
+      "blivre-tr-2018.2.0:PSA.121.2:learning-v1:fill_gap",
+      "blivre-tr-2018.2.0:1PE.5.7:learning-v1:identify_text",
+      "blivre-tr-2018.2.0:ROM.12.12:learning-v1:order_fragments",
+      "blivre-tr-2018.2.0:PSA.121.2:learning-v1:fill_gap",
+      "blivre-tr-2018.2.0:1PE.5.7:learning-v1:identify_text",
+      "blivre-tr-2018.2.0:ROM.12.12:learning-v1:fill_gap",
+      "blivre-tr-2018.2.0:PSA.121.2:learning-v1:locate_reference"
+    ],
+    "reinforcement": "Append at most 3 questions for failed dimensions, after base exercises; failures on the last base question defer if fewer than 2 intervening questions.",
+    "note": "Exemplo didático. Vencimentos reais e seleção individual vêm do histórico; embaralhar alternativas em runtime."
+  }
+]

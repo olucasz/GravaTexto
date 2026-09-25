@@ -1,0 +1,290 @@
+[
+  {
+    "id": "first-verses-stage-1",
+    "journey_id": "first-verses",
+    "title": "Etapa 1",
+    "position": 1
+  },
+  {
+    "id": "first-verses-stage-2",
+    "journey_id": "first-verses",
+    "title": "Etapa 2",
+    "position": 2
+  },
+  {
+    "id": "first-verses-stage-3",
+    "journey_id": "first-verses",
+    "title": "Etapa 3",
+    "position": 3
+  },
+  {
+    "id": "trust-and-care-stage-1",
+    "journey_id": "trust-and-care",
+    "title": "Etapa 1",
+    "position": 1
+  },
+  {
+    "id": "trust-and-care-stage-2",
+    "journey_id": "trust-and-care",
+    "title": "Etapa 2",
+    "position": 2
+  },
+  {
+    "id": "trust-and-care-stage-3",
+    "journey_id": "trust-and-care",
+    "title": "Etapa 3",
+    "position": 3
+  },
+  {
+    "id": "essential-faith-stage-1",
+    "journey_id": "essential-faith",
+    "title": "Etapa 1",
+    "position": 1
+  },
+  {
+    "id": "essential-faith-stage-2",
+    "journey_id": "essential-faith",
+    "title": "Etapa 2",
+    "position": 2
+  },
+  {
+    "id": "essential-faith-stage-3",
+    "journey_id": "essential-faith",
+    "title": "Etapa 3",
+    "position": 3
+  },
+  {
+    "id": "creation-and-covenant-stage-1",
+    "journey_id": "creation-and-covenant",
+    "title": "Etapa 1",
+    "position": 1
+  },
+  {
+    "id": "creation-and-covenant-stage-2",
+    "journey_id": "creation-and-covenant",
+    "title": "Etapa 2",
+    "position": 2
+  },
+  {
+    "id": "creation-and-covenant-stage-3",
+    "journey_id": "creation-and-covenant",
+    "title": "Etapa 3",
+    "position": 3
+  },
+  {
+    "id": "courage-and-faithfulness-stage-1",
+    "journey_id": "courage-and-faithfulness",
+    "title": "Etapa 1",
+    "position": 1
+  },
+  {
+    "id": "courage-and-faithfulness-stage-2",
+    "journey_id": "courage-and-faithfulness",
+    "title": "Etapa 2",
+    "position": 2
+  },
+  {
+    "id": "courage-and-faithfulness-stage-3",
+    "journey_id": "courage-and-faithfulness",
+    "title": "Etapa 3",
+    "position": 3
+  },
+  {
+    "id": "psalms-of-trust-stage-1",
+    "journey_id": "psalms-of-trust",
+    "title": "Etapa 1",
+    "position": 1
+  },
+  {
+    "id": "psalms-of-trust-stage-2",
+    "journey_id": "psalms-of-trust",
+    "title": "Etapa 2",
+    "position": 2
+  },
+  {
+    "id": "psalms-of-trust-stage-3",
+    "journey_id": "psalms-of-trust",
+    "title": "Etapa 3",
+    "position": 3
+  },
+  {
+    "id": "wisdom-for-life-stage-1",
+    "journey_id": "wisdom-for-life",
+    "title": "Etapa 1",
+    "position": 1
+  },
+  {
+    "id": "wisdom-for-life-stage-2",
+    "journey_id": "wisdom-for-life",
+    "title": "Etapa 2",
+    "position": 2
+  },
+  {
+    "id": "wisdom-for-life-stage-3",
+    "journey_id": "wisdom-for-life",
+    "title": "Etapa 3",
+    "position": 3
+  },
+  {
+    "id": "hope-in-the-prophets-stage-1",
+    "journey_id": "hope-in-the-prophets",
+    "title": "Etapa 1",
+    "position": 1
+  },
+  {
+    "id": "hope-in-the-prophets-stage-2",
+    "journey_id": "hope-in-the-prophets",
+    "title": "Etapa 2",
+    "position": 2
+  },
+  {
+    "id": "hope-in-the-prophets-stage-3",
+    "journey_id": "hope-in-the-prophets",
+    "title": "Etapa 3",
+    "position": 3
+  },
+  {
+    "id": "spirit-and-community-stage-1",
+    "journey_id": "spirit-and-community",
+    "title": "Etapa 1",
+    "position": 1
+  },
+  {
+    "id": "spirit-and-community-stage-2",
+    "journey_id": "spirit-and-community",
+    "title": "Etapa 2",
+    "position": 2
+  },
+  {
+    "id": "spirit-and-community-stage-3",
+    "journey_id": "spirit-and-community",
+    "title": "Etapa 3",
+    "position": 3
+  },
+  {
+    "id": "grace-and-new-life-stage-1",
+    "journey_id": "grace-and-new-life",
+    "title": "Etapa 1",
+    "position": 1
+  },
+  {
+    "id": "grace-and-new-life-stage-2",
+    "journey_id": "grace-and-new-life",
+    "title": "Etapa 2",
+    "position": 2
+  },
+  {
+    "id": "grace-and-new-life-stage-3",
+    "journey_id": "grace-and-new-life",
+    "title": "Etapa 3",
+    "position": 3
+  },
+  {
+    "id": "love-in-practice-stage-1",
+    "journey_id": "love-in-practice",
+    "title": "Etapa 1",
+    "position": 1
+  },
+  {
+    "id": "love-in-practice-stage-2",
+    "journey_id": "love-in-practice",
+    "title": "Etapa 2",
+    "position": 2
+  },
+  {
+    "id": "love-in-practice-stage-3",
+    "journey_id": "love-in-practice",
+    "title": "Etapa 3",
+    "position": 3
+  },
+  {
+    "id": "perseverance-and-hope-stage-1",
+    "journey_id": "perseverance-and-hope",
+    "title": "Etapa 1",
+    "position": 1
+  },
+  {
+    "id": "perseverance-and-hope-stage-2",
+    "journey_id": "perseverance-and-hope",
+    "title": "Etapa 2",
+    "position": 2
+  },
+  {
+    "id": "perseverance-and-hope-stage-3",
+    "journey_id": "perseverance-and-hope",
+    "title": "Etapa 3",
+    "position": 3
+  },
+  {
+    "id": "following-jesus-stage-1",
+    "journey_id": "following-jesus",
+    "title": "Etapa 1",
+    "position": 1
+  },
+  {
+    "id": "following-jesus-stage-2",
+    "journey_id": "following-jesus",
+    "title": "Etapa 2",
+    "position": 2
+  },
+  {
+    "id": "following-jesus-stage-3",
+    "journey_id": "following-jesus",
+    "title": "Etapa 3",
+    "position": 3
+  },
+  {
+    "id": "kingdom-teachings-stage-1",
+    "journey_id": "kingdom-teachings",
+    "title": "Etapa 1",
+    "position": 1
+  },
+  {
+    "id": "kingdom-teachings-stage-2",
+    "journey_id": "kingdom-teachings",
+    "title": "Etapa 2",
+    "position": 2
+  },
+  {
+    "id": "kingdom-teachings-stage-3",
+    "journey_id": "kingdom-teachings",
+    "title": "Etapa 3",
+    "position": 3
+  },
+  {
+    "id": "prayer-and-love-stage-1",
+    "journey_id": "prayer-and-love",
+    "title": "Etapa 1",
+    "position": 1
+  },
+  {
+    "id": "prayer-and-love-stage-2",
+    "journey_id": "prayer-and-love",
+    "title": "Etapa 2",
+    "position": 2
+  },
+  {
+    "id": "prayer-and-love-stage-3",
+    "journey_id": "prayer-and-love",
+    "title": "Etapa 3",
+    "position": 3
+  },
+  {
+    "id": "cross-and-resurrection-stage-1",
+    "journey_id": "cross-and-resurrection",
+    "title": "Etapa 1",
+    "position": 1
+  },
+  {
+    "id": "cross-and-resurrection-stage-2",
+    "journey_id": "cross-and-resurrection",
+    "title": "Etapa 2",
+    "position": 2
+  },
+  {
+    "id": "cross-and-resurrection-stage-3",
+    "journey_id": "cross-and-resurrection",
+    "title": "Etapa 3",
+    "position": 3
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-25",
+  "checks": {
+    "content": "passed",
+    "typecheck": "passed",
+    "lint": "passed",
+    "unit": {
+      "passed": 32,
+      "files": 6
+    },
+    "e2e": {
+      "passed": 16,
+      "browsers": [
+        "Chromium",
+        "WebKit"
+      ]
+    },
+    "build": "passed",
+    "pwa": "passed"
+  },
+  "content": {
+    "original_checksums": 26,
+    "texts": 12,
+    "contexts": 55,
+    "exercises": 92,
+    "families": 9
+  },
+  "visual_review": "ship after trail geometry, header, and design-system persistence fixes",
+  "limitations": [
+    "human editorial review pending",
+    "real screen-reader verification pending",
+    "native zoom/physical device testing pending",
+    "pilot pending",
+    "physical Safari/Chrome PWA installation pending",
+    "JS chunk warning: 509.32 kB raw, 141.55 kB gzip"
+  ]
+}

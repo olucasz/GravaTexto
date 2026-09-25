@@ -1,0 +1,13 @@
+import { describe,it,expect } from 'vitest';
+import { content } from '../../src/content/adapt';
+import { earnedXp,journeyUnits,practiceStreak } from '../../src/journey/model';
+import { emptyState,key } from '../../src/session/types';
+import type { Attempt,Session } from '../../src/session/types';
+
+const at='2026-09-25T12:00:00.000Z';
+describe('trilha e recompensas',()=>{
+ it('desbloqueia somente a próxima leitura e deriva estados do progresso real',()=>{const state=emptyState(),units=journeyUnits(state,'first-verses',at);expect(units).toHaveLength(2);expect(units.flatMap(u=>u.nodes).map(n=>n.type)).toContain('checkpoint');expect(units[0].nodes[0].status).toBe('available');expect(units[0].nodes[1].status).toBe('locked');const verse=content.journeys[0].verseIds[0];for(const dimension of ['text','reference'] as const)state.progress[key(verse,dimension)]={introducedAt:at,lastPresented:at,due:'2026-10-01',step:3,evaluations:4};const next=journeyUnits(state,'first-verses',at)[0].nodes;expect(next[0].status).toBe('mastered');expect(next[1].status).toBe('available')});
+ it('XP conta apenas acertos independentes e diferencia reforço',()=>{const state=emptyState(),base={id:'1',sessionId:'s',instanceId:'i',verseId:'v',dimension:'text',answer:[],correct:true,assisted:false,exposed:false,phase:'base',day:'2026-09-25',at,activeMs:0} satisfies Attempt;state.attempts=[base,{...base,id:'2',phase:'reinforcement'},{...base,id:'3',correct:false},{...base,id:'4',assisted:true}];expect(earnedXp(state)).toBe(15)});
+ it('exige concluir o checkpoint antes de marcá-lo como concluído',()=>{const state=emptyState();for(const verse of content.journeys[0].verseIds.slice(0,3))state.progress[key(verse,'text')]={introducedAt:at,lastPresented:at,due:'2026-10-01',step:0,evaluations:0};let checkpoint=journeyUnits(state,'first-verses',at)[0].nodes.at(-1)!;expect(checkpoint.status).toBe('available');state.milestones.push(checkpoint.id);checkpoint=journeyUnits(state,'first-verses',at)[0].nodes.at(-1)!;expect(checkpoint.status).toBe('completed')});
+ it('sequência usa dias consecutivos de sessões concluídas',()=>{const state=emptyState();for(const [n,day] of ['2026-09-25','2026-09-24','2026-09-23','2026-09-20'].entries())state.sessions[String(n)]={id:String(n),journeyId:'first-verses',contentVersion:'x',seed:1,dayOffset:0,createdAt:`${day}T12:00:00.000Z`,mode:'review',activeVerseIds:[],newVerseIds:[],baseCount:0,instances:[],cursor:0,status:'completed',reading:null,readDone:[],exposures:[],queue:[],shortReason:null,result:{baseTotal:0,baseCorrect:0,assisted:0,reinforcementTotal:0,reinforcementCorrect:0,verseIds:[],difficulties:[],reviews:[]}} satisfies Session;expect(practiceStreak(state)).toBe(3)});
+});

@@ -1,0 +1,132 @@
+[
+  {
+    "path": "README.md",
+    "sha256": "3b4455ade0c8ddc42de47fa287227f9fd9a712704d54efcbc2424bd879432532",
+    "bytes": 6341
+  },
+  {
+    "path": "data/books.json",
+    "sha256": "dc0e881755526f1f018584368c2fdbdd1c1028da1722a266fbcb18d20bdb11f9",
+    "bytes": 8243
+  },
+  {
+    "path": "data/collections.json",
+    "sha256": "65a793b8935997d74ef02f18a85eaef71304dd9439ae78e1d5d27c364af8de94",
+    "bytes": 352
+  },
+  {
+    "path": "data/journeys.json",
+    "sha256": "d1a0e6ea519ce4f9e6408c92df773e26b20b50c4353c5bce60bab29239ac139b",
+    "bytes": 4976
+  },
+  {
+    "path": "data/learning_items.json",
+    "sha256": "a50f6dc7a90c36ee3173362c1c4c17053e1af15ce3ad9f28aeefe7cf8a3bd8ae",
+    "bytes": 395311
+  },
+  {
+    "path": "data/mvp-bundle.json",
+    "sha256": "3f920fd0a1bc3e20c63cc809f7a3e737d422e18619de04ec2102c0115a5b478c",
+    "bytes": 104358
+  },
+  {
+    "path": "data/puzzles-mvp.json",
+    "sha256": "f92cf9f7f0c43209e14972ceb1e753384fab74f86a9cb5924d429e2d49cc9310",
+    "bytes": 55400
+  },
+  {
+    "path": "data/session-policy.json",
+    "sha256": "3c127b4f63545074b7738550491a4da40cf76ed7e79f1b4d87e88f55d9fb87e0",
+    "bytes": 1429
+  },
+  {
+    "path": "data/translation.json",
+    "sha256": "7688b3c3baeb38f4fdc75fc931a441e4781421094df11d92c1c99a492e9bb429",
+    "bytes": 1341
+  },
+  {
+    "path": "data/unit_verses.json",
+    "sha256": "a9b793e7a5f14f60bf63a09e9fcc4bfc6b65a5a1d77f8b258ec19c2bc9bdb9ad",
+    "bytes": 17807
+  },
+  {
+    "path": "data/units.json",
+    "sha256": "0e21c6081a3cb2e34f2fbccb705380f70eb6e23274b2eb2cd231ecf78f239ccc",
+    "bytes": 6243
+  },
+  {
+    "path": "data/verses.json",
+    "sha256": "bedbb81d863ed3cb0c226705dc5fe37fbcdf1ec4365214a68ba512c113392975",
+    "bytes": 13610572
+  },
+  {
+    "path": "docs/jornadas.md",
+    "sha256": "5f91525488c7cea87004b35db6455d89ead585c54512a7f48d2883d51fe5e97a",
+    "bytes": 20104
+  },
+  {
+    "path": "docs/licenca-e-atribuicao.md",
+    "sha256": "825bce462ed23a514f517b4afd1417ab4607385d05a6c7a3a9c14e5cb00d94a4",
+    "bytes": 2722
+  },
+  {
+    "path": "docs/modelo-e-regras.md",
+    "sha256": "654024cd0b37462f83287a265cab271761552eb66fe5d3e522b70c47e253f744",
+    "bytes": 5667
+  },
+  {
+    "path": "docs/revisao-editorial.md",
+    "sha256": "5a914185b87f610cd94826e845436f9cb98a565de4d06fb67dc61b0fa170d73d",
+    "bytes": 2867
+  },
+  {
+    "path": "examples/queries.sql",
+    "sha256": "55e6cb7af2f5c8d98e4f0d980a44561f202e2feb88e0533c1439b8fbd3684dc5",
+    "bytes": 938
+  },
+  {
+    "path": "examples/sessions.json",
+    "sha256": "e2655322d25a92a4232abdf7761530e92a48eae70b744339e3e892684cdf164e",
+    "bytes": 8024
+  },
+  {
+    "path": "gravatexto.sqlite",
+    "sha256": "6431b77e50847065cf3c09860910c5ca218569bc0160bfce4e31b8c4183e2f7d",
+    "bytes": 12656640
+  },
+  {
+    "path": "licenses/BLIVRE-CC-BY-3.0-BR.md",
+    "sha256": "6ff396843c629e408e3dbad8b16653acbfed6448fe4011bbde4e13baaae706b7",
+    "bytes": 16646
+  },
+  {
+    "path": "schema.sql",
+    "sha256": "fceec9ca80c905f536e8e87b898ff7d1ea26489635f46b73f31ad9c21dcfdde4",
+    "bytes": 1954
+  },
+  {
+    "path": "scripts/build.py",
+    "sha256": "991e7eac998882fbda305a9a957a5dd02ea8c564054ce4403edb515bcdabcb6d",
+    "bytes": 21390
+  },
+  {
+    "path": "scripts/curation.py",
+    "sha256": "fcae3f33afba6d1993797ffd65ec6d5493d32000c5d39f873675190bc2cc0492",
+    "bytes": 3017
+  },
+  {
+    "path": "source/README-original.md",
+    "sha256": "2c9188d1031b419ec4c59288f3aa41368bbfd5a4b646edaf6ea74169e1a46114",
+    "bytes": 2566
+  },
+  {
+    "path": "source/bliv-tr_vpl.zip",
+    "sha256": "af8d9876919c4ca67195b8d8adcb9998a63f25ea4509750574ab6a7eedb9e2f1",
+    "bytes": 1275470
+  },
+  {
+    "path": "validation-report.json",
+    "sha256": "e4031cb42d9312b782dd4f2e8d4827b14a6b920d5ef82e1576a03236525bd3a1",
+    "bytes": 874
+  }
+]

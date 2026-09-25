@@ -1,0 +1,22 @@
+[
+  {
+    "id": "foundations",
+    "title": "Primeiros passos",
+    "position": 1
+  },
+  {
+    "id": "old-testament",
+    "title": "Antigo Testamento",
+    "position": 2
+  },
+  {
+    "id": "new-testament",
+    "title": "Novo Testamento",
+    "position": 3
+  },
+  {
+    "id": "with-christ",
+    "title": "Caminhando com Cristo",
+    "position": 4
+  }
+]

@@ -1,0 +1,1868 @@
+[
+  {
+    "id": "blivre-tr-2018.2.0:1TH.5.16:learning-v1:locate_reference",
+    "learning_item_id": "blivre-tr-2018.2.0:1TH.5.16:learning-v1",
+    "kind": "locate_reference",
+    "target_dimension": "reference",
+    "payload": {
+      "prompt": "Onde está escrito?",
+      "text": "Alegrai-vos sempre.",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.16",
+          "label": "1 Tessalonicenses 5:16"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.17",
+          "label": "1 Tessalonicenses 5:17"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1JO.4.19",
+          "label": "1 João 4:19"
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:1TH.5.16",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:1TH.5.16:learning-v1:identify_text",
+    "learning_item_id": "blivre-tr-2018.2.0:1TH.5.16:learning-v1",
+    "kind": "identify_text",
+    "target_dimension": "text_reference",
+    "payload": {
+      "prompt": "Qual texto corresponde a 1 Tessalonicenses 5:16?",
+      "reference": "1 Tessalonicenses 5:16",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.16",
+          "label": "Alegrai-vos sempre."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.17",
+          "label": "Orai sem cessar."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1JO.4.19",
+          "label": "Nós o amamos, porque ele nos amou primeiro."
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:1TH.5.16",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:1TH.5.16:learning-v1:fill_gap",
+    "learning_item_id": "blivre-tr-2018.2.0:1TH.5.16:learning-v1",
+    "kind": "fill_gap",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Complete o trecho.",
+      "reference": "1 Tessalonicenses 5:16",
+      "prefix": "Alegrai-vos ",
+      "suffix": ".",
+      "gap_span": {
+        "start": 12,
+        "end": 18,
+        "index_unit": "unicode_code_points"
+      },
+      "options": [
+        {
+          "id": "correct",
+          "label": "sempre"
+        },
+        {
+          "id": "distractor-0",
+          "label": "hoje"
+        },
+        {
+          "id": "distractor-1",
+          "label": "amanhã"
+        }
+      ],
+      "correct_option_id": "correct",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:1TH.5.17:learning-v1:locate_reference",
+    "learning_item_id": "blivre-tr-2018.2.0:1TH.5.17:learning-v1",
+    "kind": "locate_reference",
+    "target_dimension": "reference",
+    "payload": {
+      "prompt": "Onde está escrito?",
+      "text": "Orai sem cessar.",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.17",
+          "label": "1 Tessalonicenses 5:17"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.16",
+          "label": "1 Tessalonicenses 5:16"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1JO.4.19",
+          "label": "1 João 4:19"
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:1TH.5.17",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:1TH.5.17:learning-v1:identify_text",
+    "learning_item_id": "blivre-tr-2018.2.0:1TH.5.17:learning-v1",
+    "kind": "identify_text",
+    "target_dimension": "text_reference",
+    "payload": {
+      "prompt": "Qual texto corresponde a 1 Tessalonicenses 5:17?",
+      "reference": "1 Tessalonicenses 5:17",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.17",
+          "label": "Orai sem cessar."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.16",
+          "label": "Alegrai-vos sempre."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1JO.4.19",
+          "label": "Nós o amamos, porque ele nos amou primeiro."
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:1TH.5.17",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:1TH.5.17:learning-v1:fill_gap",
+    "learning_item_id": "blivre-tr-2018.2.0:1TH.5.17:learning-v1",
+    "kind": "fill_gap",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Complete o trecho.",
+      "reference": "1 Tessalonicenses 5:17",
+      "prefix": "Orai sem ",
+      "suffix": ".",
+      "gap_span": {
+        "start": 9,
+        "end": 15,
+        "index_unit": "unicode_code_points"
+      },
+      "options": [
+        {
+          "id": "correct",
+          "label": "cessar"
+        },
+        {
+          "id": "distractor-0",
+          "label": "falar"
+        },
+        {
+          "id": "distractor-1",
+          "label": "esperar"
+        }
+      ],
+      "correct_option_id": "correct",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:1JO.4.19:learning-v1:locate_reference",
+    "learning_item_id": "blivre-tr-2018.2.0:1JO.4.19:learning-v1",
+    "kind": "locate_reference",
+    "target_dimension": "reference",
+    "payload": {
+      "prompt": "Onde está escrito?",
+      "text": "Nós o amamos, porque ele nos amou primeiro.",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:1JO.4.19",
+          "label": "1 João 4:19"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.16",
+          "label": "1 Tessalonicenses 5:16"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.17",
+          "label": "1 Tessalonicenses 5:17"
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:1JO.4.19",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:1JO.4.19:learning-v1:identify_text",
+    "learning_item_id": "blivre-tr-2018.2.0:1JO.4.19:learning-v1",
+    "kind": "identify_text",
+    "target_dimension": "text_reference",
+    "payload": {
+      "prompt": "Qual texto corresponde a 1 João 4:19?",
+      "reference": "1 João 4:19",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:1JO.4.19",
+          "label": "Nós o amamos, porque ele nos amou primeiro."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.16",
+          "label": "Alegrai-vos sempre."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.17",
+          "label": "Orai sem cessar."
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:1JO.4.19",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:1JO.4.19:learning-v1:fill_gap",
+    "learning_item_id": "blivre-tr-2018.2.0:1JO.4.19:learning-v1",
+    "kind": "fill_gap",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Complete o trecho.",
+      "reference": "1 João 4:19",
+      "prefix": "Nós o amamos, porque ele nos amou ",
+      "suffix": ".",
+      "gap_span": {
+        "start": 34,
+        "end": 42,
+        "index_unit": "unicode_code_points"
+      },
+      "options": [
+        {
+          "id": "correct",
+          "label": "primeiro"
+        },
+        {
+          "id": "distractor-0",
+          "label": "depois"
+        },
+        {
+          "id": "distractor-1",
+          "label": "agora"
+        }
+      ],
+      "correct_option_id": "correct",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:1JO.4.19:learning-v1:choose_continuation",
+    "learning_item_id": "blivre-tr-2018.2.0:1JO.4.19:learning-v1",
+    "kind": "choose_continuation",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Como continua?",
+      "reference": "1 João 4:19",
+      "prefix": "Nós o amamos, porque ",
+      "options": [
+        {
+          "id": "correct",
+          "label": "ele nos amou primeiro."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.119.105",
+          "label": "pés e luz para meu caminho."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PHI.4.13",
+          "label": "em Cristo que me fortalece."
+        }
+      ],
+      "correct_option_id": "correct",
+      "shuffle_options": true,
+      "distractors_are_excerpts_from_other_verses": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:1JO.4.19:learning-v1:order_fragments",
+    "learning_item_id": "blivre-tr-2018.2.0:1JO.4.19:learning-v1",
+    "kind": "order_fragments",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Monte a passagem.",
+      "reference": "1 João 4:19",
+      "pieces": [
+        {
+          "id": "piece-0",
+          "text": "Nós o amamos, porque ",
+          "display_label": "Nós o amamos, porque"
+        },
+        {
+          "id": "piece-1",
+          "text": "ele nos amou primeiro.",
+          "display_label": "ele nos amou primeiro."
+        }
+      ],
+      "correct_order": [
+        "piece-0",
+        "piece-1"
+      ],
+      "shuffle_pieces": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PSA.119.105:learning-v1:locate_reference",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.119.105:learning-v1",
+    "kind": "locate_reference",
+    "target_dimension": "reference",
+    "payload": {
+      "prompt": "Onde está escrito?",
+      "text": "Tua palavra é lâmpada para meus pés e luz para meu caminho.",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:PSA.119.105",
+          "label": "Salmos 119:105"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.16",
+          "label": "1 Tessalonicenses 5:16"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.17",
+          "label": "1 Tessalonicenses 5:17"
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:PSA.119.105",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PSA.119.105:learning-v1:identify_text",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.119.105:learning-v1",
+    "kind": "identify_text",
+    "target_dimension": "text_reference",
+    "payload": {
+      "prompt": "Qual texto corresponde a Salmos 119:105?",
+      "reference": "Salmos 119:105",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:PSA.119.105",
+          "label": "Tua palavra é lâmpada para meus pés e luz para meu caminho."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.16",
+          "label": "Alegrai-vos sempre."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.17",
+          "label": "Orai sem cessar."
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:PSA.119.105",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PSA.119.105:learning-v1:fill_gap",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.119.105:learning-v1",
+    "kind": "fill_gap",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Complete o trecho.",
+      "reference": "Salmos 119:105",
+      "prefix": "Tua palavra é ",
+      "suffix": " para meus pés e luz para meu caminho.",
+      "gap_span": {
+        "start": 14,
+        "end": 21,
+        "index_unit": "unicode_code_points"
+      },
+      "options": [
+        {
+          "id": "correct",
+          "label": "lâmpada"
+        },
+        {
+          "id": "distractor-0",
+          "label": "escudo"
+        },
+        {
+          "id": "distractor-1",
+          "label": "abrigo"
+        }
+      ],
+      "correct_option_id": "correct",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PSA.119.105:learning-v1:choose_continuation",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.119.105:learning-v1",
+    "kind": "choose_continuation",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Como continua?",
+      "reference": "Salmos 119:105",
+      "prefix": "Tua palavra é lâmpada para meus ",
+      "options": [
+        {
+          "id": "correct",
+          "label": "pés e luz para meu caminho."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1JO.4.19",
+          "label": "ele nos amou primeiro."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PHI.4.13",
+          "label": "em Cristo que me fortalece."
+        }
+      ],
+      "correct_option_id": "correct",
+      "shuffle_options": true,
+      "distractors_are_excerpts_from_other_verses": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PSA.119.105:learning-v1:order_fragments",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.119.105:learning-v1",
+    "kind": "order_fragments",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Monte a passagem.",
+      "reference": "Salmos 119:105",
+      "pieces": [
+        {
+          "id": "piece-0",
+          "text": "Tua palavra é lâmpada ",
+          "display_label": "Tua palavra é lâmpada"
+        },
+        {
+          "id": "piece-1",
+          "text": "para meus pés e ",
+          "display_label": "para meus pés e"
+        },
+        {
+          "id": "piece-2",
+          "text": "luz para meu caminho.",
+          "display_label": "luz para meu caminho."
+        }
+      ],
+      "correct_order": [
+        "piece-0",
+        "piece-1",
+        "piece-2"
+      ],
+      "shuffle_pieces": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PHI.4.13:learning-v1:locate_reference",
+    "learning_item_id": "blivre-tr-2018.2.0:PHI.4.13:learning-v1",
+    "kind": "locate_reference",
+    "target_dimension": "reference",
+    "payload": {
+      "prompt": "Onde está escrito?",
+      "text": "Posso todas as coisas em Cristo que me fortalece.",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:PHI.4.13",
+          "label": "Filipenses 4:13"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.16",
+          "label": "1 Tessalonicenses 5:16"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.17",
+          "label": "1 Tessalonicenses 5:17"
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:PHI.4.13",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PHI.4.13:learning-v1:identify_text",
+    "learning_item_id": "blivre-tr-2018.2.0:PHI.4.13:learning-v1",
+    "kind": "identify_text",
+    "target_dimension": "text_reference",
+    "payload": {
+      "prompt": "Qual texto corresponde a Filipenses 4:13?",
+      "reference": "Filipenses 4:13",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:PHI.4.13",
+          "label": "Posso todas as coisas em Cristo que me fortalece."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.16",
+          "label": "Alegrai-vos sempre."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.17",
+          "label": "Orai sem cessar."
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:PHI.4.13",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PHI.4.13:learning-v1:fill_gap",
+    "learning_item_id": "blivre-tr-2018.2.0:PHI.4.13:learning-v1",
+    "kind": "fill_gap",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Complete o trecho.",
+      "reference": "Filipenses 4:13",
+      "prefix": "Posso todas as coisas em Cristo que me ",
+      "suffix": ".",
+      "gap_span": {
+        "start": 39,
+        "end": 48,
+        "index_unit": "unicode_code_points"
+      },
+      "options": [
+        {
+          "id": "correct",
+          "label": "fortalece"
+        },
+        {
+          "id": "distractor-0",
+          "label": "conhece"
+        },
+        {
+          "id": "distractor-1",
+          "label": "acompanha"
+        }
+      ],
+      "correct_option_id": "correct",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PHI.4.13:learning-v1:choose_continuation",
+    "learning_item_id": "blivre-tr-2018.2.0:PHI.4.13:learning-v1",
+    "kind": "choose_continuation",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Como continua?",
+      "reference": "Filipenses 4:13",
+      "prefix": "Posso todas as coisas ",
+      "options": [
+        {
+          "id": "correct",
+          "label": "em Cristo que me fortalece."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1JO.4.19",
+          "label": "ele nos amou primeiro."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.119.105",
+          "label": "pés e luz para meu caminho."
+        }
+      ],
+      "correct_option_id": "correct",
+      "shuffle_options": true,
+      "distractors_are_excerpts_from_other_verses": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PHI.4.13:learning-v1:order_fragments",
+    "learning_item_id": "blivre-tr-2018.2.0:PHI.4.13:learning-v1",
+    "kind": "order_fragments",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Monte a passagem.",
+      "reference": "Filipenses 4:13",
+      "pieces": [
+        {
+          "id": "piece-0",
+          "text": "Posso todas as coisas ",
+          "display_label": "Posso todas as coisas"
+        },
+        {
+          "id": "piece-1",
+          "text": "em Cristo que me fortalece.",
+          "display_label": "em Cristo que me fortalece."
+        }
+      ],
+      "correct_order": [
+        "piece-0",
+        "piece-1"
+      ],
+      "shuffle_pieces": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PRO.3.5:learning-v1:locate_reference",
+    "learning_item_id": "blivre-tr-2018.2.0:PRO.3.5:learning-v1",
+    "kind": "locate_reference",
+    "target_dimension": "reference",
+    "payload": {
+      "prompt": "Onde está escrito?",
+      "text": "Confia no SENHOR com todo o teu coração; e não te apoies em teu próprio entendimento.",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:PRO.3.5",
+          "label": "Provérbios 3:5"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.16",
+          "label": "1 Tessalonicenses 5:16"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.17",
+          "label": "1 Tessalonicenses 5:17"
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:PRO.3.5",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PRO.3.5:learning-v1:identify_text",
+    "learning_item_id": "blivre-tr-2018.2.0:PRO.3.5:learning-v1",
+    "kind": "identify_text",
+    "target_dimension": "text_reference",
+    "payload": {
+      "prompt": "Qual texto corresponde a Provérbios 3:5?",
+      "reference": "Provérbios 3:5",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:PRO.3.5",
+          "label": "Confia no SENHOR com todo o teu coração; e não te apoies em teu próprio entendimento."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.16",
+          "label": "Alegrai-vos sempre."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1TH.5.17",
+          "label": "Orai sem cessar."
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:PRO.3.5",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PRO.3.5:learning-v1:fill_gap",
+    "learning_item_id": "blivre-tr-2018.2.0:PRO.3.5:learning-v1",
+    "kind": "fill_gap",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Complete o trecho.",
+      "reference": "Provérbios 3:5",
+      "prefix": "Confia no SENHOR com todo o teu ",
+      "suffix": "; e não te apoies em teu próprio entendimento.",
+      "gap_span": {
+        "start": 32,
+        "end": 39,
+        "index_unit": "unicode_code_points"
+      },
+      "options": [
+        {
+          "id": "correct",
+          "label": "coração"
+        },
+        {
+          "id": "distractor-0",
+          "label": "tempo"
+        },
+        {
+          "id": "distractor-1",
+          "label": "talento"
+        }
+      ],
+      "correct_option_id": "correct",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PRO.3.5:learning-v1:choose_continuation",
+    "learning_item_id": "blivre-tr-2018.2.0:PRO.3.5:learning-v1",
+    "kind": "choose_continuation",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Como continua?",
+      "reference": "Provérbios 3:5",
+      "prefix": "Confia no SENHOR com todo o teu coração; ",
+      "options": [
+        {
+          "id": "correct",
+          "label": "e não te apoies em teu próprio entendimento."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1JO.4.19",
+          "label": "ele nos amou primeiro."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.119.105",
+          "label": "pés e luz para meu caminho."
+        }
+      ],
+      "correct_option_id": "correct",
+      "shuffle_options": true,
+      "distractors_are_excerpts_from_other_verses": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PRO.3.5:learning-v1:order_fragments",
+    "learning_item_id": "blivre-tr-2018.2.0:PRO.3.5:learning-v1",
+    "kind": "order_fragments",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Monte a passagem.",
+      "reference": "Provérbios 3:5",
+      "pieces": [
+        {
+          "id": "piece-0",
+          "text": "Confia no SENHOR com todo ",
+          "display_label": "Confia no SENHOR com todo"
+        },
+        {
+          "id": "piece-1",
+          "text": "o teu coração; e não ",
+          "display_label": "o teu coração; e não"
+        },
+        {
+          "id": "piece-2",
+          "text": "te apoies em teu próprio entendimento.",
+          "display_label": "te apoies em teu próprio entendimento."
+        }
+      ],
+      "correct_order": [
+        "piece-0",
+        "piece-1",
+        "piece-2"
+      ],
+      "shuffle_pieces": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:1TH.5.16:learning-v1:match_pairs_1",
+    "learning_item_id": "blivre-tr-2018.2.0:1TH.5.16:learning-v1",
+    "kind": "match_pairs_1",
+    "target_dimension": "reference",
+    "payload": {
+      "prompt": "Ligue cada texto à sua referência.",
+      "pairs": [
+        {
+          "learning_item_id": "blivre-tr-2018.2.0:1TH.5.16:learning-v1",
+          "verse_id": "blivre-tr-2018.2.0:1TH.5.16",
+          "reference": "1 Tessalonicenses 5:16",
+          "text": "Alegrai-vos sempre."
+        },
+        {
+          "learning_item_id": "blivre-tr-2018.2.0:1TH.5.17:learning-v1",
+          "verse_id": "blivre-tr-2018.2.0:1TH.5.17",
+          "reference": "1 Tessalonicenses 5:17",
+          "text": "Orai sem cessar."
+        },
+        {
+          "learning_item_id": "blivre-tr-2018.2.0:1JO.4.19:learning-v1",
+          "verse_id": "blivre-tr-2018.2.0:1JO.4.19",
+          "reference": "1 João 4:19",
+          "text": "Nós o amamos, porque ele nos amou primeiro."
+        }
+      ],
+      "shuffle_left": true,
+      "shuffle_right": true,
+      "score_each_pair_separately": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PSA.119.105:learning-v1:match_pairs_2",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.119.105:learning-v1",
+    "kind": "match_pairs_2",
+    "target_dimension": "reference",
+    "payload": {
+      "prompt": "Ligue cada texto à sua referência.",
+      "pairs": [
+        {
+          "learning_item_id": "blivre-tr-2018.2.0:PSA.119.105:learning-v1",
+          "verse_id": "blivre-tr-2018.2.0:PSA.119.105",
+          "reference": "Salmos 119:105",
+          "text": "Tua palavra é lâmpada para meus pés e luz para meu caminho."
+        },
+        {
+          "learning_item_id": "blivre-tr-2018.2.0:PHI.4.13:learning-v1",
+          "verse_id": "blivre-tr-2018.2.0:PHI.4.13",
+          "reference": "Filipenses 4:13",
+          "text": "Posso todas as coisas em Cristo que me fortalece."
+        },
+        {
+          "learning_item_id": "blivre-tr-2018.2.0:PRO.3.5:learning-v1",
+          "verse_id": "blivre-tr-2018.2.0:PRO.3.5",
+          "reference": "Provérbios 3:5",
+          "text": "Confia no SENHOR com todo o teu coração; e não te apoies em teu próprio entendimento."
+        }
+      ],
+      "shuffle_left": true,
+      "shuffle_right": true,
+      "score_each_pair_separately": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PSA.56.3:learning-v1:locate_reference",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.56.3:learning-v1",
+    "kind": "locate_reference",
+    "target_dimension": "reference",
+    "payload": {
+      "prompt": "Onde está escrito?",
+      "text": "No dia em que eu tiver medo, eu confiarei em ti.",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:PSA.56.3",
+          "label": "Salmos 56:3"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.121.2",
+          "label": "Salmos 121:2"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1PE.5.7",
+          "label": "1 Pedro 5:7"
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:PSA.56.3",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PSA.56.3:learning-v1:identify_text",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.56.3:learning-v1",
+    "kind": "identify_text",
+    "target_dimension": "text_reference",
+    "payload": {
+      "prompt": "Qual texto corresponde a Salmos 56:3?",
+      "reference": "Salmos 56:3",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:PSA.56.3",
+          "label": "No dia em que eu tiver medo, eu confiarei em ti."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.121.2",
+          "label": "Meu socorro vem do SENHOR, que fez os céus e a terra."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1PE.5.7",
+          "label": "lançando sobre ele toda a vossa ansiedade; porque ele tem cuidado de vós."
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:PSA.56.3",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PSA.56.3:learning-v1:fill_gap",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.56.3:learning-v1",
+    "kind": "fill_gap",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Complete o trecho.",
+      "reference": "Salmos 56:3",
+      "prefix": "No dia em que eu tiver ",
+      "suffix": ", eu confiarei em ti.",
+      "gap_span": {
+        "start": 23,
+        "end": 27,
+        "index_unit": "unicode_code_points"
+      },
+      "options": [
+        {
+          "id": "correct",
+          "label": "medo"
+        },
+        {
+          "id": "distractor-0",
+          "label": "pressa"
+        },
+        {
+          "id": "distractor-1",
+          "label": "dúvida"
+        }
+      ],
+      "correct_option_id": "correct",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PSA.56.3:learning-v1:choose_continuation",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.56.3:learning-v1",
+    "kind": "choose_continuation",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Como continua?",
+      "reference": "Salmos 56:3",
+      "prefix": "No dia em que eu ",
+      "options": [
+        {
+          "id": "correct",
+          "label": "tiver medo, eu confiarei em ti."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.121.2",
+          "label": "fez os céus e a terra."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1PE.5.7",
+          "label": "ansiedade; porque ele tem cuidado de vós."
+        }
+      ],
+      "correct_option_id": "correct",
+      "shuffle_options": true,
+      "distractors_are_excerpts_from_other_verses": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PSA.56.3:learning-v1:order_fragments",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.56.3:learning-v1",
+    "kind": "order_fragments",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Monte a passagem.",
+      "reference": "Salmos 56:3",
+      "pieces": [
+        {
+          "id": "piece-0",
+          "text": "No dia em ",
+          "display_label": "No dia em"
+        },
+        {
+          "id": "piece-1",
+          "text": "que eu tiver medo, ",
+          "display_label": "que eu tiver medo,"
+        },
+        {
+          "id": "piece-2",
+          "text": "eu confiarei em ti.",
+          "display_label": "eu confiarei em ti."
+        }
+      ],
+      "correct_order": [
+        "piece-0",
+        "piece-1",
+        "piece-2"
+      ],
+      "shuffle_pieces": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PSA.121.2:learning-v1:locate_reference",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.121.2:learning-v1",
+    "kind": "locate_reference",
+    "target_dimension": "reference",
+    "payload": {
+      "prompt": "Onde está escrito?",
+      "text": "Meu socorro vem do SENHOR, que fez os céus e a terra.",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:PSA.121.2",
+          "label": "Salmos 121:2"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.56.3",
+          "label": "Salmos 56:3"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1PE.5.7",
+          "label": "1 Pedro 5:7"
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:PSA.121.2",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PSA.121.2:learning-v1:identify_text",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.121.2:learning-v1",
+    "kind": "identify_text",
+    "target_dimension": "text_reference",
+    "payload": {
+      "prompt": "Qual texto corresponde a Salmos 121:2?",
+      "reference": "Salmos 121:2",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:PSA.121.2",
+          "label": "Meu socorro vem do SENHOR, que fez os céus e a terra."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.56.3",
+          "label": "No dia em que eu tiver medo, eu confiarei em ti."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1PE.5.7",
+          "label": "lançando sobre ele toda a vossa ansiedade; porque ele tem cuidado de vós."
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:PSA.121.2",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PSA.121.2:learning-v1:fill_gap",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.121.2:learning-v1",
+    "kind": "fill_gap",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Complete o trecho.",
+      "reference": "Salmos 121:2",
+      "prefix": "Meu ",
+      "suffix": " vem do SENHOR, que fez os céus e a terra.",
+      "gap_span": {
+        "start": 4,
+        "end": 11,
+        "index_unit": "unicode_code_points"
+      },
+      "options": [
+        {
+          "id": "correct",
+          "label": "socorro"
+        },
+        {
+          "id": "distractor-0",
+          "label": "caminho"
+        },
+        {
+          "id": "distractor-1",
+          "label": "descanso"
+        }
+      ],
+      "correct_option_id": "correct",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PSA.121.2:learning-v1:choose_continuation",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.121.2:learning-v1",
+    "kind": "choose_continuation",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Como continua?",
+      "reference": "Salmos 121:2",
+      "prefix": "Meu socorro vem do SENHOR, que ",
+      "options": [
+        {
+          "id": "correct",
+          "label": "fez os céus e a terra."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.56.3",
+          "label": "tiver medo, eu confiarei em ti."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:1PE.5.7",
+          "label": "ansiedade; porque ele tem cuidado de vós."
+        }
+      ],
+      "correct_option_id": "correct",
+      "shuffle_options": true,
+      "distractors_are_excerpts_from_other_verses": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PSA.121.2:learning-v1:order_fragments",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.121.2:learning-v1",
+    "kind": "order_fragments",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Monte a passagem.",
+      "reference": "Salmos 121:2",
+      "pieces": [
+        {
+          "id": "piece-0",
+          "text": "Meu socorro vem do ",
+          "display_label": "Meu socorro vem do"
+        },
+        {
+          "id": "piece-1",
+          "text": "SENHOR, que fez os ",
+          "display_label": "SENHOR, que fez os"
+        },
+        {
+          "id": "piece-2",
+          "text": "céus e a terra.",
+          "display_label": "céus e a terra."
+        }
+      ],
+      "correct_order": [
+        "piece-0",
+        "piece-1",
+        "piece-2"
+      ],
+      "shuffle_pieces": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:1PE.5.7:learning-v1:locate_reference",
+    "learning_item_id": "blivre-tr-2018.2.0:1PE.5.7:learning-v1",
+    "kind": "locate_reference",
+    "target_dimension": "reference",
+    "payload": {
+      "prompt": "Onde está escrito?",
+      "text": "lançando sobre ele toda a vossa ansiedade; porque ele tem cuidado de vós.",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:1PE.5.7",
+          "label": "1 Pedro 5:7"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.56.3",
+          "label": "Salmos 56:3"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.121.2",
+          "label": "Salmos 121:2"
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:1PE.5.7",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:1PE.5.7:learning-v1:identify_text",
+    "learning_item_id": "blivre-tr-2018.2.0:1PE.5.7:learning-v1",
+    "kind": "identify_text",
+    "target_dimension": "text_reference",
+    "payload": {
+      "prompt": "Qual texto corresponde a 1 Pedro 5:7?",
+      "reference": "1 Pedro 5:7",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:1PE.5.7",
+          "label": "lançando sobre ele toda a vossa ansiedade; porque ele tem cuidado de vós."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.56.3",
+          "label": "No dia em que eu tiver medo, eu confiarei em ti."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.121.2",
+          "label": "Meu socorro vem do SENHOR, que fez os céus e a terra."
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:1PE.5.7",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:1PE.5.7:learning-v1:fill_gap",
+    "learning_item_id": "blivre-tr-2018.2.0:1PE.5.7:learning-v1",
+    "kind": "fill_gap",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Complete o trecho.",
+      "reference": "1 Pedro 5:7",
+      "prefix": "lançando sobre ele toda a vossa ",
+      "suffix": "; porque ele tem cuidado de vós.",
+      "gap_span": {
+        "start": 32,
+        "end": 41,
+        "index_unit": "unicode_code_points"
+      },
+      "options": [
+        {
+          "id": "correct",
+          "label": "ansiedade"
+        },
+        {
+          "id": "distractor-0",
+          "label": "alegria"
+        },
+        {
+          "id": "distractor-1",
+          "label": "vitória"
+        }
+      ],
+      "correct_option_id": "correct",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:1PE.5.7:learning-v1:choose_continuation",
+    "learning_item_id": "blivre-tr-2018.2.0:1PE.5.7:learning-v1",
+    "kind": "choose_continuation",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Como continua?",
+      "reference": "1 Pedro 5:7",
+      "prefix": "lançando sobre ele toda a vossa ",
+      "options": [
+        {
+          "id": "correct",
+          "label": "ansiedade; porque ele tem cuidado de vós."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.56.3",
+          "label": "tiver medo, eu confiarei em ti."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.121.2",
+          "label": "fez os céus e a terra."
+        }
+      ],
+      "correct_option_id": "correct",
+      "shuffle_options": true,
+      "distractors_are_excerpts_from_other_verses": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:1PE.5.7:learning-v1:order_fragments",
+    "learning_item_id": "blivre-tr-2018.2.0:1PE.5.7:learning-v1",
+    "kind": "order_fragments",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Monte a passagem.",
+      "reference": "1 Pedro 5:7",
+      "pieces": [
+        {
+          "id": "piece-0",
+          "text": "lançando sobre ele toda ",
+          "display_label": "lançando sobre ele toda"
+        },
+        {
+          "id": "piece-1",
+          "text": "a vossa ansiedade; porque ",
+          "display_label": "a vossa ansiedade; porque"
+        },
+        {
+          "id": "piece-2",
+          "text": "ele tem cuidado de vós.",
+          "display_label": "ele tem cuidado de vós."
+        }
+      ],
+      "correct_order": [
+        "piece-0",
+        "piece-1",
+        "piece-2"
+      ],
+      "shuffle_pieces": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:ROM.12.12:learning-v1:locate_reference",
+    "learning_item_id": "blivre-tr-2018.2.0:ROM.12.12:learning-v1",
+    "kind": "locate_reference",
+    "target_dimension": "reference",
+    "payload": {
+      "prompt": "Onde está escrito?",
+      "text": "Alegrai-vos na esperança. Sede pacientes na aflição. Perseverai na oração.",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:ROM.12.12",
+          "label": "Romanos 12:12"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.56.3",
+          "label": "Salmos 56:3"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.121.2",
+          "label": "Salmos 121:2"
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:ROM.12.12",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:ROM.12.12:learning-v1:identify_text",
+    "learning_item_id": "blivre-tr-2018.2.0:ROM.12.12:learning-v1",
+    "kind": "identify_text",
+    "target_dimension": "text_reference",
+    "payload": {
+      "prompt": "Qual texto corresponde a Romanos 12:12?",
+      "reference": "Romanos 12:12",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:ROM.12.12",
+          "label": "Alegrai-vos na esperança. Sede pacientes na aflição. Perseverai na oração."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.56.3",
+          "label": "No dia em que eu tiver medo, eu confiarei em ti."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.121.2",
+          "label": "Meu socorro vem do SENHOR, que fez os céus e a terra."
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:ROM.12.12",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:ROM.12.12:learning-v1:fill_gap",
+    "learning_item_id": "blivre-tr-2018.2.0:ROM.12.12:learning-v1",
+    "kind": "fill_gap",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Complete o trecho.",
+      "reference": "Romanos 12:12",
+      "prefix": "Alegrai-vos na ",
+      "suffix": ". Sede pacientes na aflição. Perseverai na oração.",
+      "gap_span": {
+        "start": 15,
+        "end": 24,
+        "index_unit": "unicode_code_points"
+      },
+      "options": [
+        {
+          "id": "correct",
+          "label": "esperança"
+        },
+        {
+          "id": "distractor-0",
+          "label": "riqueza"
+        },
+        {
+          "id": "distractor-1",
+          "label": "força"
+        }
+      ],
+      "correct_option_id": "correct",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:ROM.12.12:learning-v1:choose_continuation",
+    "learning_item_id": "blivre-tr-2018.2.0:ROM.12.12:learning-v1",
+    "kind": "choose_continuation",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Como continua?",
+      "reference": "Romanos 12:12",
+      "prefix": "Alegrai-vos na esperança. Sede pacientes ",
+      "options": [
+        {
+          "id": "correct",
+          "label": "na aflição. Perseverai na oração."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.56.3",
+          "label": "tiver medo, eu confiarei em ti."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.121.2",
+          "label": "fez os céus e a terra."
+        }
+      ],
+      "correct_option_id": "correct",
+      "shuffle_options": true,
+      "distractors_are_excerpts_from_other_verses": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:ROM.12.12:learning-v1:order_fragments",
+    "learning_item_id": "blivre-tr-2018.2.0:ROM.12.12:learning-v1",
+    "kind": "order_fragments",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Monte a passagem.",
+      "reference": "Romanos 12:12",
+      "pieces": [
+        {
+          "id": "piece-0",
+          "text": "Alegrai-vos na esperança. ",
+          "display_label": "Alegrai-vos na esperança."
+        },
+        {
+          "id": "piece-1",
+          "text": "Sede pacientes na ",
+          "display_label": "Sede pacientes na"
+        },
+        {
+          "id": "piece-2",
+          "text": "aflição. Perseverai na oração.",
+          "display_label": "aflição. Perseverai na oração."
+        }
+      ],
+      "correct_order": [
+        "piece-0",
+        "piece-1",
+        "piece-2"
+      ],
+      "shuffle_pieces": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PSA.37.5:learning-v1:locate_reference",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.37.5:learning-v1",
+    "kind": "locate_reference",
+    "target_dimension": "reference",
+    "payload": {
+      "prompt": "Onde está escrito?",
+      "text": "Entrega o teu caminho ao SENHOR; confia nele, e ele agirá,",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:PSA.37.5",
+          "label": "Salmos 37:5"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.56.3",
+          "label": "Salmos 56:3"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.121.2",
+          "label": "Salmos 121:2"
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:PSA.37.5",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PSA.37.5:learning-v1:identify_text",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.37.5:learning-v1",
+    "kind": "identify_text",
+    "target_dimension": "text_reference",
+    "payload": {
+      "prompt": "Qual texto corresponde a Salmos 37:5?",
+      "reference": "Salmos 37:5",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:PSA.37.5",
+          "label": "Entrega o teu caminho ao SENHOR; confia nele, e ele agirá,"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.56.3",
+          "label": "No dia em que eu tiver medo, eu confiarei em ti."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.121.2",
+          "label": "Meu socorro vem do SENHOR, que fez os céus e a terra."
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:PSA.37.5",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PSA.37.5:learning-v1:fill_gap",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.37.5:learning-v1",
+    "kind": "fill_gap",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Complete o trecho.",
+      "reference": "Salmos 37:5",
+      "prefix": "Entrega o teu ",
+      "suffix": " ao SENHOR; confia nele, e ele agirá,",
+      "gap_span": {
+        "start": 14,
+        "end": 21,
+        "index_unit": "unicode_code_points"
+      },
+      "options": [
+        {
+          "id": "correct",
+          "label": "caminho"
+        },
+        {
+          "id": "distractor-0",
+          "label": "pedido"
+        },
+        {
+          "id": "distractor-1",
+          "label": "pensamento"
+        }
+      ],
+      "correct_option_id": "correct",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PSA.37.5:learning-v1:choose_continuation",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.37.5:learning-v1",
+    "kind": "choose_continuation",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Como continua?",
+      "reference": "Salmos 37:5",
+      "prefix": "Entrega o teu caminho ao ",
+      "options": [
+        {
+          "id": "correct",
+          "label": "SENHOR; confia nele, e ele agirá,"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.56.3",
+          "label": "tiver medo, eu confiarei em ti."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.121.2",
+          "label": "fez os céus e a terra."
+        }
+      ],
+      "correct_option_id": "correct",
+      "shuffle_options": true,
+      "distractors_are_excerpts_from_other_verses": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PSA.37.5:learning-v1:order_fragments",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.37.5:learning-v1",
+    "kind": "order_fragments",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Monte a passagem.",
+      "reference": "Salmos 37:5",
+      "pieces": [
+        {
+          "id": "piece-0",
+          "text": "Entrega o teu ",
+          "display_label": "Entrega o teu"
+        },
+        {
+          "id": "piece-1",
+          "text": "caminho ao SENHOR; confia ",
+          "display_label": "caminho ao SENHOR; confia"
+        },
+        {
+          "id": "piece-2",
+          "text": "nele, e ele agirá,",
+          "display_label": "nele, e ele agirá,"
+        }
+      ],
+      "correct_order": [
+        "piece-0",
+        "piece-1",
+        "piece-2"
+      ],
+      "shuffle_pieces": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:MAT.11.28:learning-v1:locate_reference",
+    "learning_item_id": "blivre-tr-2018.2.0:MAT.11.28:learning-v1",
+    "kind": "locate_reference",
+    "target_dimension": "reference",
+    "payload": {
+      "prompt": "Onde está escrito?",
+      "text": "Vinde a mim todos vós que estais cansados e sobrecarregados, e eu vos farei descansar.",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:MAT.11.28",
+          "label": "Mateus 11:28"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.56.3",
+          "label": "Salmos 56:3"
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.121.2",
+          "label": "Salmos 121:2"
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:MAT.11.28",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:MAT.11.28:learning-v1:identify_text",
+    "learning_item_id": "blivre-tr-2018.2.0:MAT.11.28:learning-v1",
+    "kind": "identify_text",
+    "target_dimension": "text_reference",
+    "payload": {
+      "prompt": "Qual texto corresponde a Mateus 11:28?",
+      "reference": "Mateus 11:28",
+      "options": [
+        {
+          "id": "blivre-tr-2018.2.0:MAT.11.28",
+          "label": "Vinde a mim todos vós que estais cansados e sobrecarregados, e eu vos farei descansar."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.56.3",
+          "label": "No dia em que eu tiver medo, eu confiarei em ti."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.121.2",
+          "label": "Meu socorro vem do SENHOR, que fez os céus e a terra."
+        }
+      ],
+      "correct_option_id": "blivre-tr-2018.2.0:MAT.11.28",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:MAT.11.28:learning-v1:fill_gap",
+    "learning_item_id": "blivre-tr-2018.2.0:MAT.11.28:learning-v1",
+    "kind": "fill_gap",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Complete o trecho.",
+      "reference": "Mateus 11:28",
+      "prefix": "Vinde a mim todos vós que estais cansados e sobrecarregados, e eu vos farei ",
+      "suffix": ".",
+      "gap_span": {
+        "start": 76,
+        "end": 85,
+        "index_unit": "unicode_code_points"
+      },
+      "options": [
+        {
+          "id": "correct",
+          "label": "descansar"
+        },
+        {
+          "id": "distractor-0",
+          "label": "caminhar"
+        },
+        {
+          "id": "distractor-1",
+          "label": "esperar"
+        }
+      ],
+      "correct_option_id": "correct",
+      "shuffle_options": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:MAT.11.28:learning-v1:choose_continuation",
+    "learning_item_id": "blivre-tr-2018.2.0:MAT.11.28:learning-v1",
+    "kind": "choose_continuation",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Como continua?",
+      "reference": "Mateus 11:28",
+      "prefix": "Vinde a mim todos vós que estais ",
+      "options": [
+        {
+          "id": "correct",
+          "label": "cansados e sobrecarregados, e eu vos farei descansar."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.56.3",
+          "label": "tiver medo, eu confiarei em ti."
+        },
+        {
+          "id": "blivre-tr-2018.2.0:PSA.121.2",
+          "label": "fez os céus e a terra."
+        }
+      ],
+      "correct_option_id": "correct",
+      "shuffle_options": true,
+      "distractors_are_excerpts_from_other_verses": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:MAT.11.28:learning-v1:order_fragments",
+    "learning_item_id": "blivre-tr-2018.2.0:MAT.11.28:learning-v1",
+    "kind": "order_fragments",
+    "target_dimension": "text",
+    "payload": {
+      "prompt": "Monte a passagem.",
+      "reference": "Mateus 11:28",
+      "pieces": [
+        {
+          "id": "piece-0",
+          "text": "Vinde a mim todos vós ",
+          "display_label": "Vinde a mim todos vós"
+        },
+        {
+          "id": "piece-1",
+          "text": "que estais cansados e sobrecarregados, ",
+          "display_label": "que estais cansados e sobrecarregados,"
+        },
+        {
+          "id": "piece-2",
+          "text": "e eu vos farei descansar.",
+          "display_label": "e eu vos farei descansar."
+        }
+      ],
+      "correct_order": [
+        "piece-0",
+        "piece-1",
+        "piece-2"
+      ],
+      "shuffle_pieces": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:PSA.56.3:learning-v1:match_pairs_1",
+    "learning_item_id": "blivre-tr-2018.2.0:PSA.56.3:learning-v1",
+    "kind": "match_pairs_1",
+    "target_dimension": "reference",
+    "payload": {
+      "prompt": "Ligue cada texto à sua referência.",
+      "pairs": [
+        {
+          "learning_item_id": "blivre-tr-2018.2.0:PSA.56.3:learning-v1",
+          "verse_id": "blivre-tr-2018.2.0:PSA.56.3",
+          "reference": "Salmos 56:3",
+          "text": "No dia em que eu tiver medo, eu confiarei em ti."
+        },
+        {
+          "learning_item_id": "blivre-tr-2018.2.0:PSA.121.2:learning-v1",
+          "verse_id": "blivre-tr-2018.2.0:PSA.121.2",
+          "reference": "Salmos 121:2",
+          "text": "Meu socorro vem do SENHOR, que fez os céus e a terra."
+        },
+        {
+          "learning_item_id": "blivre-tr-2018.2.0:1PE.5.7:learning-v1",
+          "verse_id": "blivre-tr-2018.2.0:1PE.5.7",
+          "reference": "1 Pedro 5:7",
+          "text": "lançando sobre ele toda a vossa ansiedade; porque ele tem cuidado de vós."
+        }
+      ],
+      "shuffle_left": true,
+      "shuffle_right": true,
+      "score_each_pair_separately": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  },
+  {
+    "id": "blivre-tr-2018.2.0:ROM.12.12:learning-v1:match_pairs_2",
+    "learning_item_id": "blivre-tr-2018.2.0:ROM.12.12:learning-v1",
+    "kind": "match_pairs_2",
+    "target_dimension": "reference",
+    "payload": {
+      "prompt": "Ligue cada texto à sua referência.",
+      "pairs": [
+        {
+          "learning_item_id": "blivre-tr-2018.2.0:ROM.12.12:learning-v1",
+          "verse_id": "blivre-tr-2018.2.0:ROM.12.12",
+          "reference": "Romanos 12:12",
+          "text": "Alegrai-vos na esperança. Sede pacientes na aflição. Perseverai na oração."
+        },
+        {
+          "learning_item_id": "blivre-tr-2018.2.0:PSA.37.5:learning-v1",
+          "verse_id": "blivre-tr-2018.2.0:PSA.37.5",
+          "reference": "Salmos 37:5",
+          "text": "Entrega o teu caminho ao SENHOR; confia nele, e ele agirá,"
+        },
+        {
+          "learning_item_id": "blivre-tr-2018.2.0:MAT.11.28:learning-v1",
+          "verse_id": "blivre-tr-2018.2.0:MAT.11.28",
+          "reference": "Mateus 11:28",
+          "text": "Vinde a mim todos vós que estais cansados e sobrecarregados, e eu vos farei descansar."
+        }
+      ],
+      "shuffle_left": true,
+      "shuffle_right": true,
+      "score_each_pair_separately": true
+    },
+    "editorial_status": "draft",
+    "production_ready": false
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "books": 66,
+  "chapters": 1189,
+  "verses": 31102,
+  "collections": 4,
+  "journeys": 16,
+  "prototype_journeys": 2,
+  "units": 48,
+  "journey_assignments": 96,
+  "unique_curated_verses": 96,
+  "prototype_verses": 12,
+  "puzzles": 60,
+  "example_sessions": 6,
+  "canonical_text_preserved": true,
+  "duplicate_references": 0,
+  "missing_curated_references": 0,
+  "foreign_key_errors": 0,
+  "sqlite_integrity": "ok",
+  "checks": [
+    "source line parsing",
+    "unique references",
+    "exact canonical text and hashes",
+    "learning span transformations",
+    "foreign keys",
+    "three distinct alternatives and one correct option",
+    "lossless fragment reconstruction",
+    "gap and continuation reconstruction",
+    "sample session references and non-consecutive exercise types"
+  ],
+  "editorial_review": "Pending human review; no item is production approved."
+}

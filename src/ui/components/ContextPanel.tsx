@@ -1,0 +1,4 @@
+import { useRef,useState } from 'react';
+import { content } from '../../content/adapt';
+import { useStore } from '../store';
+export function ContextPanel({verseId,sessionId}:{verseId:string;sessionId:string}){const [open,setOpen]=useState(false),button=useRef<HTMLButtonElement>(null),{send}=useStore();const verses=content.items[verseId].context_verse_ids.map(id=>content.contexts[id]).filter(Boolean);if(!verses.length)return null;const close=()=>{setOpen(false);button.current?.focus()};return <div className="context"><button className="text-button" ref={button} aria-expanded={open} onClick={()=>{if(open)close();else{send({sessionId,type:'context',value:verseId});setOpen(true)}}}>{open?'Fechar contexto':'Ler contexto'}</button>{open&&<section aria-label="Contexto da passagem" onKeyDown={e=>{if(e.key==='Escape')close()}} className="context-text">{verses.map(v=><p key={v.id}><strong>{v.reference}</strong><br/>{v.text}</p>)}</section>}</div>}

@@ -1,0 +1,28 @@
+{
+  "original_files_preserved": 2,
+  "base_checksums_passed": 26,
+  "speckit_manifest": {
+    "version": "1.0.11",
+    "files_unchanged": 12
+  },
+  "codex_manifest": {
+    "version": "1.0.11",
+    "files_unchanged": 10
+  },
+  "content": {
+    "learning_items": 12,
+    "puzzles": 60,
+    "context_verses": 55,
+    "errors": 0
+  },
+  "markdown_links": {
+    "files": 15,
+    "broken": []
+  },
+  "tasks": {
+    "count": 25,
+    "functional_requirements_mapped": 10,
+    "success_criteria_mapped": 6
+  },
+  "application_implemented": false
+}

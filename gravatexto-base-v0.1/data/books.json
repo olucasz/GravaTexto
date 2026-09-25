@@ -1,0 +1,464 @@
+[
+  {
+    "id": "GEN",
+    "name": "Gênesis",
+    "abbreviation": "Gn",
+    "testament": "OT",
+    "canonical_order": 1
+  },
+  {
+    "id": "EXO",
+    "name": "Êxodo",
+    "abbreviation": "Ex",
+    "testament": "OT",
+    "canonical_order": 2
+  },
+  {
+    "id": "LEV",
+    "name": "Levítico",
+    "abbreviation": "Lv",
+    "testament": "OT",
+    "canonical_order": 3
+  },
+  {
+    "id": "NUM",
+    "name": "Números",
+    "abbreviation": "Nm",
+    "testament": "OT",
+    "canonical_order": 4
+  },
+  {
+    "id": "DEU",
+    "name": "Deuteronômio",
+    "abbreviation": "Dt",
+    "testament": "OT",
+    "canonical_order": 5
+  },
+  {
+    "id": "JOS",
+    "name": "Josué",
+    "abbreviation": "Js",
+    "testament": "OT",
+    "canonical_order": 6
+  },
+  {
+    "id": "JDG",
+    "name": "Juízes",
+    "abbreviation": "Jz",
+    "testament": "OT",
+    "canonical_order": 7
+  },
+  {
+    "id": "RUT",
+    "name": "Rute",
+    "abbreviation": "Rt",
+    "testament": "OT",
+    "canonical_order": 8
+  },
+  {
+    "id": "1SA",
+    "name": "1 Samuel",
+    "abbreviation": "1Sm",
+    "testament": "OT",
+    "canonical_order": 9
+  },
+  {
+    "id": "2SA",
+    "name": "2 Samuel",
+    "abbreviation": "2Sm",
+    "testament": "OT",
+    "canonical_order": 10
+  },
+  {
+    "id": "1KI",
+    "name": "1 Reis",
+    "abbreviation": "1Rs",
+    "testament": "OT",
+    "canonical_order": 11
+  },
+  {
+    "id": "2KI",
+    "name": "2 Reis",
+    "abbreviation": "2Rs",
+    "testament": "OT",
+    "canonical_order": 12
+  },
+  {
+    "id": "1CH",
+    "name": "1 Crônicas",
+    "abbreviation": "1Cr",
+    "testament": "OT",
+    "canonical_order": 13
+  },
+  {
+    "id": "2CH",
+    "name": "2 Crônicas",
+    "abbreviation": "2Cr",
+    "testament": "OT",
+    "canonical_order": 14
+  },
+  {
+    "id": "EZR",
+    "name": "Esdras",
+    "abbreviation": "Ed",
+    "testament": "OT",
+    "canonical_order": 15
+  },
+  {
+    "id": "NEH",
+    "name": "Neemias",
+    "abbreviation": "Ne",
+    "testament": "OT",
+    "canonical_order": 16
+  },
+  {
+    "id": "EST",
+    "name": "Ester",
+    "abbreviation": "Et",
+    "testament": "OT",
+    "canonical_order": 17
+  },
+  {
+    "id": "JOB",
+    "name": "Jó",
+    "abbreviation": "Jó",
+    "testament": "OT",
+    "canonical_order": 18
+  },
+  {
+    "id": "PSA",
+    "name": "Salmos",
+    "abbreviation": "Sl",
+    "testament": "OT",
+    "canonical_order": 19
+  },
+  {
+    "id": "PRO",
+    "name": "Provérbios",
+    "abbreviation": "Pv",
+    "testament": "OT",
+    "canonical_order": 20
+  },
+  {
+    "id": "ECC",
+    "name": "Eclesiastes",
+    "abbreviation": "Ec",
+    "testament": "OT",
+    "canonical_order": 21
+  },
+  {
+    "id": "SOL",
+    "name": "Cânticos",
+    "abbreviation": "Ct",
+    "testament": "OT",
+    "canonical_order": 22
+  },
+  {
+    "id": "ISA",
+    "name": "Isaías",
+    "abbreviation": "Is",
+    "testament": "OT",
+    "canonical_order": 23
+  },
+  {
+    "id": "JER",
+    "name": "Jeremias",
+    "abbreviation": "Jr",
+    "testament": "OT",
+    "canonical_order": 24
+  },
+  {
+    "id": "LAM",
+    "name": "Lamentações",
+    "abbreviation": "Lm",
+    "testament": "OT",
+    "canonical_order": 25
+  },
+  {
+    "id": "EZE",
+    "name": "Ezequiel",
+    "abbreviation": "Ez",
+    "testament": "OT",
+    "canonical_order": 26
+  },
+  {
+    "id": "DAN",
+    "name": "Daniel",
+    "abbreviation": "Dn",
+    "testament": "OT",
+    "canonical_order": 27
+  },
+  {
+    "id": "HOS",
+    "name": "Oseias",
+    "abbreviation": "Os",
+    "testament": "OT",
+    "canonical_order": 28
+  },
+  {
+    "id": "JOE",
+    "name": "Joel",
+    "abbreviation": "Jl",
+    "testament": "OT",
+    "canonical_order": 29
+  },
+  {
+    "id": "AMO",
+    "name": "Amós",
+    "abbreviation": "Am",
+    "testament": "OT",
+    "canonical_order": 30
+  },
+  {
+    "id": "OBA",
+    "name": "Obadias",
+    "abbreviation": "Ob",
+    "testament": "OT",
+    "canonical_order": 31
+  },
+  {
+    "id": "JON",
+    "name": "Jonas",
+    "abbreviation": "Jn",
+    "testament": "OT",
+    "canonical_order": 32
+  },
+  {
+    "id": "MIC",
+    "name": "Miqueias",
+    "abbreviation": "Mq",
+    "testament": "OT",
+    "canonical_order": 33
+  },
+  {
+    "id": "NAH",
+    "name": "Naum",
+    "abbreviation": "Na",
+    "testament": "OT",
+    "canonical_order": 34
+  },
+  {
+    "id": "HAB",
+    "name": "Habacuque",
+    "abbreviation": "Hc",
+    "testament": "OT",
+    "canonical_order": 35
+  },
+  {
+    "id": "ZEP",
+    "name": "Sofonias",
+    "abbreviation": "Sf",
+    "testament": "OT",
+    "canonical_order": 36
+  },
+  {
+    "id": "HAG",
+    "name": "Ageu",
+    "abbreviation": "Ag",
+    "testament": "OT",
+    "canonical_order": 37
+  },
+  {
+    "id": "ZEC",
+    "name": "Zacarias",
+    "abbreviation": "Zc",
+    "testament": "OT",
+    "canonical_order": 38
+  },
+  {
+    "id": "MAL",
+    "name": "Malaquias",
+    "abbreviation": "Ml",
+    "testament": "OT",
+    "canonical_order": 39
+  },
+  {
+    "id": "MAT",
+    "name": "Mateus",
+    "abbreviation": "Mt",
+    "testament": "NT",
+    "canonical_order": 40
+  },
+  {
+    "id": "MAR",
+    "name": "Marcos",
+    "abbreviation": "Mc",
+    "testament": "NT",
+    "canonical_order": 41
+  },
+  {
+    "id": "LUK",
+    "name": "Lucas",
+    "abbreviation": "Lc",
+    "testament": "NT",
+    "canonical_order": 42
+  },
+  {
+    "id": "JOH",
+    "name": "João",
+    "abbreviation": "Jo",
+    "testament": "NT",
+    "canonical_order": 43
+  },
+  {
+    "id": "ACT",
+    "name": "Atos",
+    "abbreviation": "At",
+    "testament": "NT",
+    "canonical_order": 44
+  },
+  {
+    "id": "ROM",
+    "name": "Romanos",
+    "abbreviation": "Rm",
+    "testament": "NT",
+    "canonical_order": 45
+  },
+  {
+    "id": "1CO",
+    "name": "1 Coríntios",
+    "abbreviation": "1Co",
+    "testament": "NT",
+    "canonical_order": 46
+  },
+  {
+    "id": "2CO",
+    "name": "2 Coríntios",
+    "abbreviation": "2Co",
+    "testament": "NT",
+    "canonical_order": 47
+  },
+  {
+    "id": "GAL",
+    "name": "Gálatas",
+    "abbreviation": "Gl",
+    "testament": "NT",
+    "canonical_order": 48
+  },
+  {
+    "id": "EPH",
+    "name": "Efésios",
+    "abbreviation": "Ef",
+    "testament": "NT",
+    "canonical_order": 49
+  },
+  {
+    "id": "PHI",
+    "name": "Filipenses",
+    "abbreviation": "Fp",
+    "testament": "NT",
+    "canonical_order": 50
+  },
+  {
+    "id": "COL",
+    "name": "Colossenses",
+    "abbreviation": "Cl",
+    "testament": "NT",
+    "canonical_order": 51
+  },
+  {
+    "id": "1TH",
+    "name": "1 Tessalonicenses",
+    "abbreviation": "1Ts",
+    "testament": "NT",
+    "canonical_order": 52
+  },
+  {
+    "id": "2TH",
+    "name": "2 Tessalonicenses",
+    "abbreviation": "2Ts",
+    "testament": "NT",
+    "canonical_order": 53
+  },
+  {
+    "id": "1TI",
+    "name": "1 Timóteo",
+    "abbreviation": "1Tm",
+    "testament": "NT",
+    "canonical_order": 54
+  },
+  {
+    "id": "2TI",
+    "name": "2 Timóteo",
+    "abbreviation": "2Tm",
+    "testament": "NT",
+    "canonical_order": 55
+  },
+  {
+    "id": "TIT",
+    "name": "Tito",
+    "abbreviation": "Tt",
+    "testament": "NT",
+    "canonical_order": 56
+  },
+  {
+    "id": "PHM",
+    "name": "Filemom",
+    "abbreviation": "Fm",
+    "testament": "NT",
+    "canonical_order": 57
+  },
+  {
+    "id": "HEB",
+    "name": "Hebreus",
+    "abbreviation": "Hb",
+    "testament": "NT",
+    "canonical_order": 58
+  },
+  {
+    "id": "JAM",
+    "name": "Tiago",
+    "abbreviation": "Tg",
+    "testament": "NT",
+    "canonical_order": 59
+  },
+  {
+    "id": "1PE",
+    "name": "1 Pedro",
+    "abbreviation": "1Pe",
+    "testament": "NT",
+    "canonical_order": 60
+  },
+  {
+    "id": "2PE",
+    "name": "2 Pedro",
+    "abbreviation": "2Pe",
+    "testament": "NT",
+    "canonical_order": 61
+  },
+  {
+    "id": "1JO",
+    "name": "1 João",
+    "abbreviation": "1Jo",
+    "testament": "NT",
+    "canonical_order": 62
+  },
+  {
+    "id": "2JO",
+    "name": "2 João",
+    "abbreviation": "2Jo",
+    "testament": "NT",
+    "canonical_order": 63
+  },
+  {
+    "id": "3JO",
+    "name": "3 João",
+    "abbreviation": "3Jo",
+    "testament": "NT",
+    "canonical_order": 64
+  },
+  {
+    "id": "JUD",
+    "name": "Judas",
+    "abbreviation": "Jd",
+    "testament": "NT",
+    "canonical_order": 65
+  },
+  {
+    "id": "REV",
+    "name": "Apocalipse",
+    "abbreviation": "Ap",
+    "testament": "NT",
+    "canonical_order": 66
+  }
+]
